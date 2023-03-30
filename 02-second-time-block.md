@@ -33,7 +33,7 @@
 ### Learning objectives
 * Summarize the basic concept of storage and databases.
 * Describe the benefits of Amazon Elastic Block Store (Amazon EBS).
-* Describe the benefits of Amazon Simple Storage Service (Amazon [S3](https://www.awsgeek.com/Amazon-S3/Amazon-S3.jpg)).
+* Describe the benefits of Amazon Simple Storage Service (Amazon [S3](https://www.awsgeek.com/Amazon-S3/)).
 * Describe the benefits of Amazon Elastic File System (Amazon [EFS](https://www.awsgeek.com/Amazon-EFS/)).
 * Summarize various storage solutions.
 * Describe the benefits of Amazon Relational Database Service (Amazon [RDS](https://www.awsgeek.com/Amazon-RDS/)).
