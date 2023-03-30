@@ -12,3 +12,10 @@ Breaking the AWS Cloud Practitioner Essentials Course into five time blocks:
 | [Fifth Time Block](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/05-fifth-time-block.md) | 04:00pm - 05:30pm |
 
 *End of Section*
+
+
+<details class="faq box"><summary>Help</summary>
+<p>
+
+</p>
+</details>

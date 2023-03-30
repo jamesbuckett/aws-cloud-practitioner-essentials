@@ -7,6 +7,14 @@
 * Describe differences between on-demand delivery and cloud deployments
 * Summarize the pay-as-you-go pricing model
 
+<details class="faq box"><summary>What is Cloud Computing</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/18049790/228764007-5cd2051a-9a2b-4c6e-9233-79ab6d47903e.png)
+
+</p>
+</details>
+
 ## Module 2: Compute in the Cloud
 
 ### Learning objectives
@@ -26,5 +34,13 @@
 * Describe the basic concept of Availability Zones.
 * Describe the benefits of Amazon CloudFront and edge locations.
 * Compare different methods for provisioning AWS services.
+
+<details class="faq box"><summary>AWS Regions</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/18049790/228764437-3a7f5820-0d33-4633-8969-0b5a2ccef085.png)
+
+</p>
+</details>
 
 *End of Section*
