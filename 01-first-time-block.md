@@ -27,6 +27,14 @@
 * Summarize the differences between Amazon Simple Notification Service (Amazon SNS) and Amazon Simple Queue Service (Amazon SQS)
 * Summarize additional AWS compute options
 
+<details class="faq box"><summary>AWS Compute and Storage Fundamentals</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/18049790/228767269-1a8db3fb-103f-49ad-a0af-0ebad65431f2.png)
+
+</p>
+</details>
+
 ## Module 3: Global Infrastructure and Reliability 
 
 ### Learning objectives
