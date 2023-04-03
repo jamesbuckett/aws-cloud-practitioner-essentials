@@ -8,5 +8,7 @@
 
 ## Closing
 * Closing Ceremony
+    * Vouchers
+    * Tips and Tricks
 
 *End of Section*
