@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 8 Pricing and Support
+## Module 8 Pricing and Support (30 Minutes)
 
 ### Learning objectives
 * Describe AWS pricing and support models.
@@ -12,7 +12,7 @@
 * Distinguish between the various AWS Support Plans.
 * Describe the benefits of AWS Marketplace.
 
-## Module 9: Migration and Innovation
+## Module 9: Migration and Innovation (25 Minutes)
 
 ### Learning objectives
 * Understand migration and innovation in the AWS Cloud.

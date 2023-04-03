@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 4: Networking
+## Module 4: Networking (28 Minutes)
 
 ### Learning objectives
 * Describe the basic concepts of networking.
@@ -28,7 +28,7 @@
 </p>
 </details>
 
-## Module 5: Storage and Database
+## Module 5: Storage and Database (42 Minutes)
 
 ### Learning objectives
 * Summarize the basic concept of storage and databases.

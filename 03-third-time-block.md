@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 6: Security
+## Module 6: Security (45 Minutes)
 
 ### Learning objectives
 * Explain the benefits of the shared responsibility model.
@@ -19,7 +19,7 @@
 </p>
 </details>
 
-## Module 7: Monitoring and Analytics
+## Module 7: Monitoring and Analytics (25 Minutes)
 
 ### Learning objectives
 * Summarize approaches to monitoring your AWS environment.
