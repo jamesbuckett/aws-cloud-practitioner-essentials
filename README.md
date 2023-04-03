@@ -1,5 +1,4 @@
-# AWS Cloud Practitioner Essentials (E-N0539V) 
-# Watch Party
+# AWS Cloud Practitioner Essentials (E-N0539V) Watch Party
 
 ## Introduction
 * The objective of this repository is to provide an 8 hour [watch party](https://en.wiktionary.org/wiki/watch_party) schedule for the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) Essentials course on [AWS Skill Builder](https://explore.skillbuilder.aws/)
