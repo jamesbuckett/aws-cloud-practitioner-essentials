@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Opening (15 Minutes)
+## Opening Ceremony (15 Minutes)
 * Perform Opening Ceremony
 * Overview of the [Amazon Web Services Ecosystem](https://www.mindmeister.com/map/2345885899)
 <br>
