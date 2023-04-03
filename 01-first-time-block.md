@@ -1,5 +1,8 @@
 # AWS Cloud Practitioner Essentials
 
+## Opening (15 Minutes)
+* Perform Opening Ceremony
+
 ## Module 1: Introduction to Amazon Web Services
 
 ### Learning objectives
@@ -14,6 +17,7 @@
 
 </p>
 </details>
+<br>
 
 ## Module 2: Compute in the Cloud
 
@@ -34,6 +38,7 @@
 
 </p>
 </details>
+<br>
 
 ## Module 3: Global Infrastructure and Reliability 
 
@@ -50,5 +55,6 @@
 
 </p>
 </details>
+<br>
 
 *End of Section*

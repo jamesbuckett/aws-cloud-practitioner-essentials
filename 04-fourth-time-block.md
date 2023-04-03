@@ -1,32 +1,23 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 8 Pricing and Support (30 Minutes)
+## Module 6: Security (45 Minutes)
 
 ### Learning objectives
-* Describe AWS pricing and support models.
-* Describe the AWS Free Tier.
-* Describe key benefits of AWS Organizations and consolidated billing.
-* Explain the benefits of AWS Budgets.
-* Explain the benefits of AWS Cost Explorer.
-* Explain the primary benefits of the AWS Pricing Calculator.
-* Distinguish between the various AWS Support Plans.
-* Describe the benefits of AWS Marketplace.
+* Explain the benefits of the shared responsibility model.
+* Describe multi-factor authentication (MFA).
+* Differentiate between the AWS Identity and Access Management (IAM) security levels.
+* Explain the main benefits of AWS Organizations.
+* Describe security policies at a basic level.
+* Summarize the benefits of compliance with AWS.
+* Explain additional AWS security services at a basic level.
 
-## Module 9: Migration and Innovation (25 Minutes)
-
-### Learning objectives
-* Understand migration and innovation in the AWS Cloud.
-* Summarize the AWS Cloud Adoption Framework (AWS CAF). 
-* Summarize the six key factors of a cloud migration strategy.
-* Describe the benefits of AWS data migration solutions, such as [AWS Snowcone, AWS Snowball, and AWS Snowmobile](https://www.awsgeek.com/AWS-Snow-Family/).
-* Summarize the broad scope of innovative solutions that AWS offers.
-
-<details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
+<details class="faq box"><summary>Introduction to AWS Security</summary>
 <p>
 
-![image](https://user-images.githubusercontent.com/18049790/228770161-3cf685c0-f5f0-4294-8bcd-9c0d02e55838.png)
+![image](https://user-images.githubusercontent.com/18049790/228769420-67566625-0e59-46d7-a85a-aaec5c63fe16.png)
 
 </p>
 </details>
+<br>
 
 *End of Section*

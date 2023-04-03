@@ -1,15 +1,23 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 10: The Cloud Journey (30 Minutes)
+## Module 7: Monitoring and Analytics (25 Minutes)
 
 ### Learning objectives
-* Summarize the six pillars of the Well-Architected Framework.  
-* Explain the six benefits of cloud computing.
+* Summarize approaches to monitoring your AWS environment.
+* Describe the benefits of Amazon CloudWatch.
+* Describe the benefits of AWS CloudTrail.
+* Describe the benefits of AWS Trusted Advisor.
 
-## Module 11: AWS Certification Basics (15 Minutes)
+## Module 8 Pricing and Support (30 Minutes)
 
 ### Learning objectives
-* Determine resources for preparing for the AWS Certified Cloud Practitioner exam.
-* Describe the benefits of becoming AWS Certified.
+* Describe AWS pricing and support models.
+* Describe the AWS Free Tier.
+* Describe key benefits of AWS Organizations and consolidated billing.
+* Explain the benefits of AWS Budgets.
+* Explain the benefits of AWS Cost Explorer.
+* Explain the primary benefits of the AWS Pricing Calculator.
+* Distinguish between the various AWS Support Plans.
+* Describe the benefits of AWS Marketplace.
 
 *End of Section*
