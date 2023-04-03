@@ -3,7 +3,7 @@
 ## Opening (15 Minutes)
 * Perform Opening Ceremony
 
-## Module 1: Introduction to Amazon Web Services
+## Module 1: Introduction to Amazon Web Services (10 Minutes)
 
 ### Learning objectives
 * Summarize the benefits of AWS
@@ -19,7 +19,7 @@
 </details>
 <br>
 
-## Module 2: Compute in the Cloud
+## Module 2: Compute in the Cloud (10 Minutes)
 
 ### Learning objectives
 * Describe the benefits of Amazon EC2 at a basic level
@@ -40,7 +40,7 @@
 </details>
 <br>
 
-## Module 3: Global Infrastructure and Reliability 
+## Module 3: Global Infrastructure and Reliability (10 Minutes)
 
 ### Learning objectives
 * Summarize the benefits of the AWS Global Infrastructure.
@@ -56,5 +56,8 @@
 </p>
 </details>
 <br>
+
+## Quiz 
+* Quiz on Module 1,2 & 3
 
 *End of Section*
