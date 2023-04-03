@@ -3,6 +3,7 @@
 ## Opening (15 Minutes)
 * Perform Opening Ceremony
 * Overview of the [Amazon Web Services Ecosystem](https://www.mindmeister.com/map/2345885899)
+<br>
 
 ## Module 1: Introduction to Amazon Web Services (10 Minutes)
 

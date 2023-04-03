@@ -5,8 +5,8 @@
 ### Learning objectives
 * Explain the benefits of the shared responsibility model.
 * Describe multi-factor authentication (MFA).
-* Differentiate between the AWS Identity and Access Management (IAM) security levels.
-* Explain the main benefits of AWS Organizations.
+* Differentiate between the [AWS Identity and Access Management](https://aws.amazon.com/iam/) (IAM) security levels.
+* Explain the main benefits of [AWS Organizations](https://aws.amazon.com/organizations/).
 * Describe security policies at a basic level.
 * Summarize the benefits of compliance with AWS.
 * Explain additional AWS security services at a basic level.
