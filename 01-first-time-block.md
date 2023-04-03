@@ -59,7 +59,7 @@
 </details>
 <br>
 
-## Quiz 
+## Quiz (15 Minutes)
 * Quiz on Module 1,2 & 3
 
 *End of Section*

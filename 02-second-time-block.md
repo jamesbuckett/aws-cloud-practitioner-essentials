@@ -30,7 +30,9 @@
 </details>
 <br>
 
-## Quiz 
+## Quiz (10 Minutes)
 * Quiz on Module 4
+
+## Tea Break (15 Minutes)
 
 *End of Section* 

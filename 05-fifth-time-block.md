@@ -20,7 +20,4 @@
 * Distinguish between the various AWS Support Plans.
 * Describe the benefits of AWS Marketplace.
 
-## Quiz 
-* Quiz on Module 7 & 8
-
 *End of Section*

@@ -20,7 +20,7 @@
 </details>
 <br>
 
-## Quiz 
+## Quiz (10 Minutes)
 * Quiz on Module 6
 
 *End of Section*

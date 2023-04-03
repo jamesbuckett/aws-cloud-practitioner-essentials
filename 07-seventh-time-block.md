@@ -6,6 +6,9 @@
 * Determine resources for preparing for the AWS Certified Cloud Practitioner exam.
 * Describe the benefits of becoming AWS Certified.
 
+## Quiz (30 Minutes)
+* General QUiz
+
 ## Closing
 * Closing Ceremony
     * Vouchers
