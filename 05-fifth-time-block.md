@@ -1,4 +1,4 @@
-# AWS Cloud Practitioner Essentials (E-N0539V)
+# AWS Cloud Practitioner Essentials
 
 ## Module 10: The Cloud Journey
 
