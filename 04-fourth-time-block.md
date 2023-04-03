@@ -20,4 +20,7 @@
 </details>
 <br>
 
+## Quiz 
+* Quiz on Module 6
+
 *End of Section*

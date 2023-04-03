@@ -24,4 +24,7 @@
 * Summarize the six pillars of the Well-Architected Framework.  
 * Explain the six benefits of cloud computing.
 
+## Quiz 
+* Quiz on Module 9 & 10
+
 *End of Section*

@@ -11,7 +11,7 @@
 ## Pre-Requisites 
 * The AWS Cloud Practitioner Essentials Course is available on [AWS Skill Builder](https://explore.skillbuilder.aws/) 
 * Login to AWS Skill Builder and search for `E-N0539V`
-    * `E-N0539V` is the ID for the English version of AWS Cloud Practitioner Essentials 
+    * `E-N0539V` is the ID for the English Language version of AWS Cloud Practitioner Essentials course
 * It is assumed that Module 1,2 and 3 have been reviewed as self study
 
 ## Watch Party Schedule
