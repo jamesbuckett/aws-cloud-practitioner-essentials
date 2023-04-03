@@ -1,6 +1,8 @@
 # AWS Cloud Practitioner Essentials (E-N0539V)
 
-![image](https://user-images.githubusercontent.com/18049790/228772258-d0512605-f805-4764-b7c3-3f860e1c5a32.png)
+<p align="center">
+<img src="![image](https://user-images.githubusercontent.com/18049790/228772258-d0512605-f805-4764-b7c3-3f860e1c5a32.png)" />
+</p>
 
 ## Introduction
 * The objective of this repository is to provide a [watch party](https://en.wiktionary.org/wiki/watch_party) schedule for the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) Essentials course on [AWS Skill Builder](https://explore.skillbuilder.aws/)
