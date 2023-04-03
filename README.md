@@ -2,10 +2,19 @@
 
 ![image](https://user-images.githubusercontent.com/18049790/228772258-d0512605-f805-4764-b7c3-3f860e1c5a32.png)
 
-The AWS Cloud Practitioner Essentials Course is available on [AWS Skill Builder](https://explore.skillbuilder.aws/) 
+## Introduction
+* The objective of this repository is to provide a [watch party](https://en.wiktionary.org/wiki/watch_party) schedule for the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) Essentials course on AWS Skill Builder
 
+## Attribution
+* All diagrams in this repo were kindly sourced from Jerry Hargrove - [Cloud Diagrams & Notes](https://www.awsgeek.com/)
 
-Breaking up the AWS Cloud Practitioner Essentials Course into five time blocks for a Watch Party: 
+## Pre-Requisites 
+* The AWS Cloud Practitioner Essentials Course is available on [AWS Skill Builder](https://explore.skillbuilder.aws/) 
+* Login to AWS Skill Builder and search for `E-N0539V`
+* `E-N0539V` is the ID for the English version of AWS Cloud Practitioner Essentials 
+
+## Watch Party Schedule
+
 
 
 | Section | Time | Modules | 
