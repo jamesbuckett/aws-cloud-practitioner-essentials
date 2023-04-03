@@ -18,6 +18,6 @@
 * Explain the benefits of [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/).
 * Explain the primary benefits of the [AWS Pricing Calculator](https://calculator.aws/).
 * Distinguish between the various AWS Support Plans.
-* Describe the benefits of AWS Marketplace.
+* Describe the benefits of [AWS Marketplace](https://aws.amazon.com/marketplace).
 
 *End of Section*

@@ -12,6 +12,7 @@
 * Describe the layers of security used in an IT strategy.
 * Describe the services customers use to interact with the AWS global network.
 
+### Notes
 <details class="faq box"><summary>Network Fundamentals</summary>
 <p>
 
@@ -19,7 +20,7 @@
 
 </p>
 </details>
-<br>
+
 
 <details class="faq box"><summary>VPC 101</summary>
 <p>
@@ -31,7 +32,7 @@
 <br>
 
 ## Quiz (10 Minutes)
-* Quiz on Module 4
+* Quiz on Module 4 - Networking
 
 ## Tea Break (15 Minutes)
 

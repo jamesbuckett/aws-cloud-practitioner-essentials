@@ -12,6 +12,7 @@
 * Describe differences between on-demand delivery and cloud deployments
 * Summarize the pay-as-you-go pricing model
 
+### Notes
 <details class="faq box"><summary>What is Cloud Computing</summary>
 <p>
 
@@ -33,6 +34,7 @@
 * Summarize the differences between Amazon Simple Notification Service (Amazon SNS) and Amazon Simple Queue Service (Amazon SQS)
 * Summarize additional AWS compute options
 
+### Notes
 <details class="faq box"><summary>AWS Compute and Storage Fundamentals</summary>
 <p>
 
@@ -50,6 +52,7 @@
 * Describe the benefits of Amazon CloudFront and edge locations.
 * Compare different methods for provisioning AWS services.
 
+### Notes
 <details class="faq box"><summary>AWS Regions</summary>
 <p>
 

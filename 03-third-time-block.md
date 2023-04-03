@@ -12,6 +12,7 @@
 * Describe the benefits of Amazon [DynamoDB](https://www.awsgeek.com/Amazon-DynamoDB/).
 * Summarize various database services.
 
+### Notes
 <details class="faq box"><summary>Databases and Analytics</summary>
 <p>
 
@@ -19,7 +20,7 @@
 
 </p>
 </details>
-<br>
+
 
 <details class="faq box"><summary>Choosing the Right Database</summary>
 <p>
@@ -31,6 +32,6 @@
 <br>
 
 ## Quiz (10 Minutes)
-* Quiz on Module 5
+* Quiz on Module 5 - Storage and Databases
 
 *End of Section*

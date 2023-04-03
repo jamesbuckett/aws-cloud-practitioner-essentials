@@ -11,6 +11,7 @@
 * Summarize the benefits of compliance with AWS.
 * Explain additional AWS security services at a basic level.
 
+### Notes
 <details class="faq box"><summary>Introduction to AWS Security</summary>
 <p>
 
@@ -21,6 +22,6 @@
 <br>
 
 ## Quiz (10 Minutes)
-* Quiz on Module 6
+* Quiz on Module 6 - Security
 
 *End of Section*

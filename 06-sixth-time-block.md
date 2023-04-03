@@ -9,6 +9,7 @@
 * Describe the benefits of AWS data migration solutions, such as [AWS Snowcone, AWS Snowball, and AWS Snowmobile](https://www.awsgeek.com/AWS-Snow-Family/).
 * Summarize the broad scope of innovative solutions that AWS offers.
 
+### Notes
 <details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
 <p>
 

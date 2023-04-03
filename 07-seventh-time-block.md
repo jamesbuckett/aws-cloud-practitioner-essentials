@@ -7,7 +7,7 @@
 * Describe the benefits of becoming AWS Certified.
 
 ## Quiz (30 Minutes)
-* General QUiz
+* Quiz on Module 7,8,9,10 & 11
 
 ## Closing
 * Closing Ceremony
