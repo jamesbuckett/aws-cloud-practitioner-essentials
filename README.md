@@ -1,4 +1,4 @@
-# AWS Cloud Practitioner Essentials (E-N0539V)
+# AWS Cloud Practitioner Essentials (E-N0539V) Watch Party
 
 
 ![image](https://user-images.githubusercontent.com/18049790/228772258-d0512605-f805-4764-b7c3-3f860e1c5a32.png)
