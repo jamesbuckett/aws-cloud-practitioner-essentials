@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 7: Monitoring and Analytics (25 Minutes)
+## Module 7: [Monitoring and Analytics](https://mm.tt/map/2398189342) (25 Minutes)
 
 ### Learning objectives
 * Summarize approaches to monitoring your AWS environment.
@@ -8,7 +8,7 @@
 * Describe the benefits of [AWS CloudTrail](https://aws.amazon.com/cloudtrail/).
 * Describe the benefits of [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/).
 
-## Module 8 Pricing and Support (30 Minutes)
+## Module 8 [Pricing and Support](https://mm.tt/map/2398189549) (30 Minutes)
 
 ### Learning objectives
 * Describe AWS pricing and support models.

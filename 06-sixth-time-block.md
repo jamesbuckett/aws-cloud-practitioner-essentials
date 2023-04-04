@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 9: Migration and Innovation (25 Minutes)
+## Module 9: [Migration and Innovation](https://mm.tt/map/2398189584) (25 Minutes)
 
 ### Learning objectives
 * Understand migration and innovation in the AWS Cloud.
@@ -19,7 +19,7 @@
 </details>
 <br>
 
-## Module 10: The Cloud Journey (30 Minutes)
+## Module 10: [The Cloud Journey](https://mm.tt/map/2398189641) (30 Minutes)
 
 ### Learning objectives
 * Summarize the six pillars of the Well-Architected Framework.  

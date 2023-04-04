@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 5: Storage and Database (42 Minutes)
+## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (42 Minutes)
 
 ### Learning objectives
 * Summarize the basic concept of storage and databases.
