@@ -35,6 +35,4 @@
 * Quiz on Module 4 & 5
 <br>
 
-Next [Module 6: Security](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md)
-
-*End of Section*
+Next [Module 6: Security...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md)

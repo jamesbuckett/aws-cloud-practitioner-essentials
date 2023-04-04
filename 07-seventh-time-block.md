@@ -14,4 +14,4 @@
     * Vouchers
     * Tips and Tricks
 
-*End of Section*
+*End of Course*

@@ -20,6 +20,4 @@
 * Distinguish between the various AWS Support Plans.
 * Describe the benefits of [AWS Marketplace](https://aws.amazon.com/marketplace).
 
-Next [Module 9: Migration and Innovation](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md)
-
-*End of Section*
+Next [Module 9: Migration and Innovation...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md)
