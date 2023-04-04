@@ -31,9 +31,6 @@
 </details>
 <br>
 
-## Quiz (10 Minutes)
-* Quiz on Module 4 - Networking
-
 ## Tea Break (15 Minutes)
 
 *End of Section* 

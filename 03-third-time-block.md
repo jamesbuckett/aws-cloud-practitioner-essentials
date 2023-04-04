@@ -31,7 +31,7 @@
 </details>
 <br>
 
-## Quiz (10 Minutes)
-* Quiz on Module 5 - Storage and Databases
+## Quiz (15 Minutes)
+* Quiz on Module 4 & 5
 
 *End of Section*

@@ -21,7 +21,6 @@
 </details>
 <br>
 
-## Quiz (10 Minutes)
-* Quiz on Module 6 - Security
+## Break (15 Minutes)
 
 *End of Section*
