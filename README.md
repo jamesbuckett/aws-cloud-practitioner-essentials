@@ -16,12 +16,12 @@
 
 | Section | Time | Modules | Location | 
 | --- | --- | --- | --- |
-| [Start Here...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 09:00am - 10:00am | Opening Ceremony and Module 1, 2 & 3 | Purple |
-| [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 10:00am - 11:00pm | Module 4 - Networking & Break | Red | 
-| [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 11:00am - 12:00pm | Module 5 - Storage & Quiz | Blue |
-| [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 12:00pm - 01:00pm | Module 6 - Security & Break | Green |
+| [Start Here...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 09:00am - 10:00am | Opening Ceremony and Module 1, 2 & 3 | Green |
+| [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 10:00am - 11:00pm | Module 4 - Networking & Break | Blue | 
+| [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 11:00am - 12:00pm | Module 5 - Storage & Quiz | Green |
+| [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 12:00pm - 01:00pm | Module 6 - Security & Break | Blue |
 | Lunch | 01:00pm - 02:00pm | Yay Lunch |
-| [Fifth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/05-fifth-time-block.md) | 02:00pm - 03:00pm | Module 7 & 8 - Monitoring & Pricing | Red |
+| [Fifth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/05-fifth-time-block.md) | 02:00pm - 03:00pm | Module 7 & 8 - Monitoring & Pricing | Green |
 | [Sixth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md) | 03:00pm - 04:00pm | Module 9 & 10 - Migration & Journey | Blue |
 | [End Here...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 04:00pm - 05:00pm | Module 11, Quiz  & Closing Ceremony | Green |
 
