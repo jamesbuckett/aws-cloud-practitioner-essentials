@@ -26,5 +26,3 @@
 | [End Here...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 04:00pm - 05:00pm | Module 11, Quiz  & Closing Ceremony | Green |
 
 
-*End of Section*
-
