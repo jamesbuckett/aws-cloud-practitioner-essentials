@@ -3,8 +3,8 @@
 ## Opening Ceremony (15 Minutes)
 * Perform Opening Ceremony
 * Overview of the [Amazon Web Services Ecosystem](https://www.mindmeister.com/map/2345885899)
-* It is assumed Module 1,2 & 3 were reviewed in advance of this section
-* This section is just a REVIEW of these modules
+* It is assumed Module 1, 2 & 3 were reviewed in advance of this section
+* This section is just a *REVIEW* of these modules
 * If you finish the review ahead of schedule move ahead to the next section
 <br>
 
@@ -66,7 +66,7 @@
 <br>
 
 ## Quiz (15 Minutes)
-* Quiz on Module 1,2 & 3
+* Quiz on Module 1, 2 & 3
 <br>
 
-Next [Module 4: Networking...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md)
+Next [Module 4: Networking](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md)
