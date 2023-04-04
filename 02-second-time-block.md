@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 4: [Networking](https://mm.tt/map/2398189135) (28 Minutes)
+## Module 4: [Networking](https://mm.tt/map/2398189135) (45 Minutes)
 
 ### Learning objectives
 * Describe the basic concepts of networking.
@@ -32,6 +32,7 @@
 <br>
 
 ## Tea Break (15 Minutes)
+<br>
 
 Next [Module 5: Storage and Database](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md)
 

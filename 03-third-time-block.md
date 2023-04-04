@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (42 Minutes)
+## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (45 Minutes)
 
 ### Learning objectives
 * Summarize the basic concept of storage and databases.
@@ -33,6 +33,7 @@
 
 ## Quiz (15 Minutes)
 * Quiz on Module 4 & 5
+<br>
 
 Next [Module 6: Security](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md)
 

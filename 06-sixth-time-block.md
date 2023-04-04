@@ -24,6 +24,10 @@
 ### Learning objectives
 * Summarize the six pillars of the Well-Architected Framework.  
 * Explain the six benefits of cloud computing.
+<br>
+
+## Break (5 Minutes)
+<br>
 
 Next [Module 11: AWS Certification Basics](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md)
 
