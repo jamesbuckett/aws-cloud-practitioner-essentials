@@ -5,7 +5,7 @@
 * Overview of the [Amazon Web Services Ecosystem](https://www.mindmeister.com/map/2345885899)
 <br>
 
-## Module 1: Introduction to Amazon Web Services (10 Minutes)
+## Module 1: [Introduction to Amazon Web Services](https://mm.tt/map/2398188482) (10 Minutes)
 
 ### Learning objectives
 * Summarize the benefits of AWS
@@ -22,7 +22,7 @@
 </details>
 <br>
 
-## Module 2: Compute in the Cloud (10 Minutes)
+## Module 2: [Compute in the Cloud](https://mm.tt/map/2398188755) (10 Minutes)
 
 ### Learning objectives
 * Describe the benefits of Amazon EC2 at a basic level
@@ -44,7 +44,7 @@
 </details>
 <br>
 
-## Module 3: Global Infrastructure and Reliability (10 Minutes)
+## Module 3: [Global Infrastructure and Reliability](https://mm.tt/map/2398188922) (10 Minutes)
 
 ### Learning objectives
 * Summarize the benefits of the AWS Global Infrastructure.
