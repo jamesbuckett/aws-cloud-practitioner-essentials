@@ -34,4 +34,6 @@
 ## Quiz (15 Minutes)
 * Quiz on Module 4 & 5
 
+Next [Module 6: Security](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md)
+
 *End of Section*

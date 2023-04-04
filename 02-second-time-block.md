@@ -33,4 +33,6 @@
 
 ## Tea Break (15 Minutes)
 
+Next [Module 5: Storage and Database](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md)
+
 *End of Section* 
