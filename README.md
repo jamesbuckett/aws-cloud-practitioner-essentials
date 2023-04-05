@@ -15,10 +15,12 @@
 ## Overview
 * An evangalist will start each section on the hour and give an oveview of the learning objectives
 * The evangalist may open the header hyperlinks to provide further insight and introduction to concepts
-* Once complete participants should put on headphones and complete the video's in that module
+* Once the evangalist is complete, participants should put on headphones and complete the video's in that module
 * If a participant has any questions they may ask for in person or virtual support
-* Depending on time the end of each section either has a break or a break and a quiz
-* Participants should return on the hour each hour each hour to start the next module
+* After completing the video's, each section has a break
+    * Exception is Module Module 5 which has a Quiz before the Break
+* Participants are on until the start of the next section
+* Participants should return on the hour each hour to start the next module
 
 ## Watch Party Schedule
 
