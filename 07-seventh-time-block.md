@@ -7,9 +7,9 @@
 * Describe the benefits of becoming AWS Certified.
 
 ## Quiz (30 Minutes)
-* Quiz on Module 6, 7, 8, 9, 10 & 11
+* [Whizlabs Quiz](https://www.whizlabs.com/blog/aws-cloud-practitioner-certification-questions/)
 
-## Closing
+## Closing (15 Minutes)
 * Closing Ceremony
     * Vouchers
     * Tips and Tricks
