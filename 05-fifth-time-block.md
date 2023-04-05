@@ -22,4 +22,4 @@
 * Describe the benefits of [AWS Marketplace](https://aws.amazon.com/marketplace).
 <br>
 
-Next [Module 9: Migration and Innovation](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md)
+Be back at 03:00pm for [Module 9: Migration and Innovation](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md)

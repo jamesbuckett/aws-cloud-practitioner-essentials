@@ -19,7 +19,7 @@
 * If a participant has any questions they may ask for in person or virtual support
 * After completing the video's, each section has a break
     * Exception is Module Module 5 which has a Quiz before the Break
-* Participants are on until the start of the next section
+* Participants are on break until the start of the next section
 * Participants should return on the hour each hour to start the next module
 
 ## Watch Party Schedule

@@ -69,4 +69,4 @@
 * Quiz on Module 1, 2 & 3
 <br>
 
-Next [Module 4: Networking](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md)
+Be back at 10:00am for [Module 4: Networking](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md)
