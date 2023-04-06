@@ -7,7 +7,6 @@
 * Describe the benefits of [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/).
 * Describe the benefits of [AWS CloudTrail](https://aws.amazon.com/cloudtrail/).
 * Describe the benefits of [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/).
-<br>
 
 ### Now Complete the following sections:
 * Module 7 introduction
@@ -29,7 +28,6 @@
 * Explain the primary benefits of the [AWS Pricing Calculator](https://calculator.aws/).
 * Distinguish between the various AWS Support Plans.
 * Describe the benefits of [AWS Marketplace](https://aws.amazon.com/marketplace).
-<br>
 
 ### Now Complete the following sections:
 * Module 8 introduction

@@ -5,7 +5,6 @@
 ### Learning objectives
 * Determine resources for preparing for the AWS Certified Cloud Practitioner exam.
 * Describe the benefits of becoming AWS Certified.
-<br>
 
 ### Now Complete the following sections:
 * Module 11 introduction
