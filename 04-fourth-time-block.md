@@ -21,7 +21,8 @@
 </details>
 <br>
 
-## Break (15 Minutes)
+## Quiz (15 Minutes)
+* Quiz on Module 1 & 6
 <br>
 
 Go on Lunch from 01:00pm to 02:00pm

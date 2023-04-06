@@ -10,17 +10,18 @@
 * The AWS Cloud Practitioner Essentials Course is available on [AWS Skill Builder](https://explore.skillbuilder.aws/) 
 * Login to AWS Skill Builder and search for `E-N0539V`
     * `E-N0539V` is the ID for the English Language version of AWS Cloud Practitioner Essentials course
-* It is assumed that Module 1,2 and 3 have been reviewed as self-study
+* Please complete Module 1, 2 and 3 as self study
+* It is assumed that Module 1, 2 and 3 have been reviewed as self-study
 
 ## Overview
-* An evangalist will start each section on the hour and give an oveview of the learning objectives
-* The evangalist may open the header hyperlinks to provide further insight and introduction to concepts
-* Once the evangalist is complete, participants should put on headphones and complete the video's in that module
-* If a participant has any questions they may ask for in person or virtual support
+* An Cloud Champion will start each section on the hour and give an oveview of the learning objectives
+* The Cloud Champion may open the header hyperlinks to provide further insight and introduction to concepts
+* Once the Cloud Champion is complete, participants should put on headphones and complete all the video's in that module
+* If a participant has any questions they may ask for in person or virtual support (Details to Be Provided)
 * After completing the video's, each section has a break
-    * Exception is Module Module 5 which has a Quiz before the Break
+    * Exception is Module 6 which has a Quiz before Lunch
 * Participants are on break until the start of the next section
-* Participants should return on the hour each hour to start the next module
+* Participants should return on the hour, each hour to start the next module
 
 ## Watch Party Schedule
 
