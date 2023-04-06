@@ -10,7 +10,6 @@
 * Describe security policies at a basic level.
 * Summarize the benefits of compliance with AWS.
 * Explain additional AWS security services at a basic level.
-<br>
 
 ### Now Complete the following sections:
 * Module 6 introduction
@@ -22,7 +21,6 @@
 * Additional security services
 * Module 6 summary
 * Module 6 quiz
-<br>
 
 ### Notes
 <details class="faq box"><summary>Introduction to AWS Security</summary>

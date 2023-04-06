@@ -11,7 +11,6 @@
 * Describe the benefits of Amazon Relational Database Service (Amazon [RDS](https://www.awsgeek.com/Amazon-RDS/)).
 * Describe the benefits of Amazon [DynamoDB](https://www.awsgeek.com/Amazon-DynamoDB/).
 * Summarize various database services.
-<br>
 
 ### Now Complete the following sections:
 * Module 5 introduction
@@ -25,7 +24,6 @@
 * Additional database services
 * Module 5 summary
 * Module 5 quiz
-<br>
 
 ### Notes
 <details class="faq box"><summary>Databases and Analytics</summary>
