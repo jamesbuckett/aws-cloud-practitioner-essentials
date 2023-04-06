@@ -8,6 +8,17 @@
 * Summarize the six key factors of a cloud migration strategy.
 * Describe the benefits of AWS data migration solutions, such as [AWS Snowcone, AWS Snowball, and AWS Snowmobile](https://www.awsgeek.com/AWS-Snow-Family/).
 * Summarize the broad scope of innovative solutions that AWS offers.
+<br>
+
+### Now Complete the following sections:
+* Module 9 introduction
+* AWS Cloud Adoption Framework (AWS CAF)
+* Migration strategies
+* AWS Snow Family
+* Innovation with AWS
+* Module 9 summary
+* Module 9 quiz
+<br>
 
 ### Notes
 <details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
@@ -25,6 +36,15 @@
 * Summarize the six pillars of the Well-Architected Framework.  
 * Explain the six benefits of cloud computing.
 <br>
+
+### Now Complete the following sections:
+* Module 10 introduction
+* The AWS Well-Architected Framewo
+* Benefits of the AWS Cloud
+* Module 10 summary
+* Module 10 quiz
+<br>
+
 
 ## Break (5 Minutes)
 <br>

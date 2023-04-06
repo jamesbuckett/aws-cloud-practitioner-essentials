@@ -11,6 +11,21 @@
 * Describe the benefits of Amazon Relational Database Service (Amazon [RDS](https://www.awsgeek.com/Amazon-RDS/)).
 * Describe the benefits of Amazon [DynamoDB](https://www.awsgeek.com/Amazon-DynamoDB/).
 * Summarize various database services.
+<br>
+
+### Now Complete the following sections:
+* Module 5 introduction
+* Instance stores and Amazon Elastic Block Store (Amazon EBS)
+* Amazon Simple Storage Service (Amazon S3)
+* Amazon Elastic File System (Amazon EFS)
+* Amazon Relational Database Service (Amazon RDS)
+* Amazon DynamoDB
+* Amazon Redshift
+* AWS Database Migration Service
+* Additional database services
+* Module 5 summary
+* Module 5 quiz
+<br>
 
 ### Notes
 <details class="faq box"><summary>Databases and Analytics</summary>

@@ -9,6 +9,15 @@
 * Describe the benefits of [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/).
 <br>
 
+### Now Complete the following sections:
+* Module 7 introduction
+* Amazon CloudWatch
+* AWS CloudTrail
+* AWS Trusted Advisor
+* Module 7 summary
+* Module 7 quiz
+<br>
+
 ## Module 8 [Pricing and Support](https://mm.tt/map/2398189549) (30 Minutes)
 
 ### Learning objectives
@@ -20,6 +29,20 @@
 * Explain the primary benefits of the [AWS Pricing Calculator](https://calculator.aws/).
 * Distinguish between the various AWS Support Plans.
 * Describe the benefits of [AWS Marketplace](https://aws.amazon.com/marketplace).
+<br>
+
+### Now Complete the following sections:
+* Module 8 introduction
+* AWS Free Tier
+* AWS pricing concepts
+* Billing dashboard
+* Consolidated billing
+* AWS Budgets
+* AWS Cost Explorer
+* AWS Support plans
+* AWS Marketplace
+* Module 8 summary
+* Module 8 quiz
 <br>
 
 Be back at 03:00pm for [Module 9: Migration and Innovation](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md)

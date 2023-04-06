@@ -11,6 +11,16 @@
 * Describe the benefit of hybrid deployments. 
 * Describe the layers of security used in an IT strategy.
 * Describe the services customers use to interact with the AWS global network.
+<br>
+
+### Now Complete the following sections:
+* Module 4 introduction
+* Connectivity to AWS
+* Subnets and network access control lists
+* Global networking
+* Module 4 summary
+* Module 4 quiz 
+<br>
 
 ### Notes
 <details class="faq box"><summary>Network Fundamentals</summary>
