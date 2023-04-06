@@ -32,8 +32,8 @@
 </details>
 <br>
 
-## Quiz (15 Minutes)
-* Quiz on Module 1 & 6
+## Quiz (15 Minutes) (Group Activity)
+* Quiz on Module 1 - 6
 <br>
 
 ## Lunch (60 Minutes)
