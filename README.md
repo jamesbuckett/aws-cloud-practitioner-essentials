@@ -11,7 +11,6 @@
 * Login to AWS Skill Builder and search for `E-N0539V`
     * `E-N0539V` is the ID for the English Language version of AWS Cloud Practitioner Essentials course
 * Please complete Module 1, 2 and 3 as self study
-* It is assumed that Module 1, 2 and 3 have been reviewed as self-study
 
 ## Overview
 * An Cloud Champion will start each section on the hour and give an oveview of the learning objectives
