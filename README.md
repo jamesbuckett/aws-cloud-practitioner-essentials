@@ -13,7 +13,7 @@
 * Please complete Module 1, 2 and 3 as self study
 
 ## Overview
-* An Cloud Champion will start each section on the hour and give an oveview of the learning objectives
+* A Cloud Champion will start each section on the hour and give an oveview of the learning objectives
 * The Cloud Champion may open the header hyperlinks to provide further insight and introduction to concepts
 * Once the Cloud Champion is complete, participants should put on headphones and complete all the video's in that module
 * If a participant has any questions they may ask for in person or virtual support (Details to Be Provided)
