@@ -5,6 +5,7 @@
 
 ## Attribution
 * All diagrams in this repository were kindly sourced from Jerry Hargrove's website - [Cloud Diagrams & Notes](https://www.awsgeek.com/)
+* No changes were made to the diagrams
 
 ## Pre-Requisites 
 * The AWS Cloud Practitioner Essentials Course is available on [AWS Skill Builder](https://explore.skillbuilder.aws/) 
@@ -16,7 +17,7 @@
 * A Cloud Champion will start each section on the hour and give an oveview of the learning objectives
 * The Cloud Champion may open the header hyperlinks to provide further insight and introduction to concepts
 * Once the Cloud Champion is complete, participants should put on headphones and complete all the video's in that module
-* If a participant has any questions they may ask for in person or virtual support (Details to Be Provided)
+* If a participant has any questions they may ask for support (Details to Be Provided in Session)
 * After completing the video's, each section has a break
     * Exception is Module 6 which has a Quiz before Lunch
 * Participants are on break until the start of the next section
