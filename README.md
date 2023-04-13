@@ -32,7 +32,7 @@
 | [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 12:00pm - 01:00pm | Module 6 - Security Module & Quiz | SG |
 | Lunch | 01:00pm - 02:00pm | Yay Lunch |
 | [Fifth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/05-fifth-time-block.md) | 02:00pm - 03:00pm | Module 7 & 8 - Monitoring & Pricing Module | HK |
-| [Sixth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md) | 03:00pm - 04:00pm | Module 9 & 10 - Migration & Journey Module | JP |
+| [Sixth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md) | 03:00pm - 04:00pm | Module 9 & 10 - Migration & Journey Module | HK |
 | [End Here...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 04:00pm - 05:00pm | Module 11, Quiz  & Closing Ceremony | SG |
 
 
