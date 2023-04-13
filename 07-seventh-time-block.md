@@ -13,7 +13,11 @@
 * Final assessment
 <br>
 
-## Quiz (30 Minutes)(Group Activity)
+## Quiz (30 Minutes) (Group Activity)
+* Quiz on Module 1 - 6
+* Details to be provided in Session
+
+## Optional Online Quiz
 * [Whizlabs Quiz](https://www.whizlabs.com/blog/aws-cloud-practitioner-certification-questions/)
 <br>
 

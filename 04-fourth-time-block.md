@@ -34,6 +34,7 @@
 
 ## Quiz (15 Minutes) (Group Activity)
 * Quiz on Module 1 - 6
+* Details to be provided in Session
 <br>
 
 ## Lunch (60 Minutes)
