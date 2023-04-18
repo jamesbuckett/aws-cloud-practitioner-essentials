@@ -39,7 +39,7 @@
 </details>
 <br>
 
-## Break (15 Minutes)
+## Tea Break (15 Minutes)
 <br>
 
 Be back at 11:00am for  [Module 5: Storage and Database](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md)
