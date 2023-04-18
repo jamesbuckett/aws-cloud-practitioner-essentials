@@ -28,7 +28,7 @@
 | Section | Time | Modules | Location | 
 | --- | --- | --- | --- |
 | [Start Here...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 09:00am - 10:00am | Opening Ceremony and Review Module 1, 2 & 3 | HK |
-| [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 10:00am - 10:45am | Module 4 - Networking Module & Tea Break | CN | 
+| [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 10:00am - 10:45am | Module 4 - Networking Module | CN | 
 | Break | 10:45am - 11:00am | Tea Break | |
 | [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 11:00am - 12:00pm | Module 5 - Storage, Databases Module & Break | JP |
 | [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 12:00pm - 01:00pm | Module 6 - Security Module & Quiz | SG |
