@@ -42,7 +42,7 @@
 * Module 10 quiz
 <br>
 
-## Break (5 Minutes)
+## Break for Refreshments (15 Minutes)
 <br>
 
-Be back at 04:00pm for [Module 11: AWS Certification Basics](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md)
+Be back at 04:15pm for [Module 11: AWS Certification Basics](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md)

@@ -37,7 +37,7 @@
 * Details to be provided in Session
 <br>
 
-## Lunch (60 Minutes)
+## Break for Lunch (60 Minutes)
 * Go on Lunch from 01:00pm to 02:00pm
 <br>
 
