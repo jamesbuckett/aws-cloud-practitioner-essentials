@@ -22,6 +22,7 @@
     * Exception is Module 6 which has a Quiz before Lunch
 * Participants are on break until the start of the next section
 * Participants should return on the hour, each hour to start the next module
+    * Exception is the last section, Module 11 which starts at 04:15pm
 
 ## Watch Party Schedule
 
