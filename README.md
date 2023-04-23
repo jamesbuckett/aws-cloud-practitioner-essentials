@@ -45,10 +45,10 @@
 | --- | --- | --- |
 | 09:00am - 10:00am | Opening Ceremony and Review [Episode  1](https://www.twitch.tv/aws/video/1005559434) & [Episode 2](https://www.twitch.tv/aws/video/1013753009) | HK |
 | 10:00am - 10:15am | Break for Refreshments | |
-| 10:15am - 11:45am | [Episode 3 - Storage & Databases](https://www.twitch.tv/aws/video/1022375469) | CN | 
+| 10:15am - 11:45am | [Episode 3 - Storage & Databases](https://www.twitch.tv/aws/video/1022375469) | [CN](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 
 | 11:45am - 12:00am | Short Quiz | |
 | 12:00pm - 01:00pm | Lunch | | 
-| 01:00pm - 02:00pm | [Episode 4 - Security](https://www.twitch.tv/aws/video/1030386576) | JP |
+| 01:00pm - 02:00pm | [Episode 4 - Security](https://www.twitch.tv/aws/video/1030386576) | [JP](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) |
 | 02:00pm - 02:15pm | Break | |
 | 02:15pm - 03:15pm | [Episode 5 - Well Architected Framework](https://www.twitch.tv/aws/video/1038059490) | SG |
 | 03:15pm - 03:30pm | Break | |
