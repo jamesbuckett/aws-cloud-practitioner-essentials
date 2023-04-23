@@ -24,7 +24,7 @@
 * Participants should return on the hour, each hour to start the next module
     * Exception is the last section, Module 11 which starts at 04:15pm
 
-## Watch Party Schedule
+## Watch Party Schedule - AWS Skills Builder (Under Maintenance)
 
 | Section | Time | Modules | Location | 
 | --- | --- | --- | --- |
@@ -39,4 +39,19 @@
 | Mid-afternoon Break | 04:00pm - 04:15pm | Break for Refreshments | |
 | [End Here...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 04:15pm - 05:00pm | Module 11, Quiz  & Closing Ceremony | SG |
 
+## Watch Party Schedule - AWS Power Hour: Cloud Practitioner
 
+| Section | Time | Modules | Location | 
+| --- | --- | --- | --- |
+| [Start Here...] | 09:00am - 10:00am | Opening Ceremony and Review Episode  1 & 2 | HK |
+| Mid-morning Break | 10:00am - 10:15am | Break for Refreshments | |
+| [Second] | 10:15am - 11:45am | Episode 3 - Storage & Databases | CN | 
+| Quiz | 11:45am - 12:00am | Short Quiz | |
+| Lunch | 12:00pm - 01:00pm | Lunch | | 
+| [Third] | 01:00pm - 02:00pm | Episode 4 - Security | JP |
+| Break | 02:00pm - 02:15pm | Break | |
+| [Fourth] | 02:15pm - 03:15pm | Episode 5 - Well Architected Framework | SG |
+| Mid-afternoon Break | 03:15pm - 03:30pm | Break | |
+| [Fifth] | 03:30pm - 04:30pm | Episode 6 - Review | HK |
+| Quiz | 04:30pm - 05:00pm | Quiz | |
+| [End Here...] | 05:00pm - 05:30pm | Closing Ceremony | SG |
