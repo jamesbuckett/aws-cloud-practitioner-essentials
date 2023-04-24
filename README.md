@@ -39,19 +39,4 @@
 | Mid-afternoon Break | 04:00pm - 04:15pm | Break for Refreshments | |
 | [End Here...](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 04:15pm - 05:00pm | Module 11, Quiz  & Closing Ceremony | SG |
 
-## Watch Party Schedule - AWS Power Hour: Cloud Practitioner
 
-| Time | Modules | Location | 
-| --- | --- | --- |
-| 09:00am - 10:00am | Opening Ceremony and Review [Episode  1](https://www.twitch.tv/aws/video/1005559434) & [Episode 2](https://www.twitch.tv/aws/video/1013753009) | HK |
-| 10:00am - 10:15am | Break for Refreshments | |
-| 10:15am - 11:45am | [Episode 3 - Storage & Databases](https://www.twitch.tv/aws/video/1022375469) | [CN](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 
-| 11:45am - 12:00am | Short Quiz | |
-| 12:00pm - 01:00pm | Lunch | | 
-| 01:00pm - 02:00pm | [Episode 4 - Security](https://www.twitch.tv/aws/video/1030386576) | [JP](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) |
-| 02:00pm - 02:15pm | Break | |
-| 02:15pm - 03:15pm | [Episode 5 - Well Architected Framework](https://www.twitch.tv/aws/video/1038059490) | SG |
-| 03:15pm - 03:30pm | Break | |
-| 03:30pm - 04:30pm | [Episode 6 - Review](https://www.twitch.tv/aws/video/1045580213) | HK |
-| 04:30pm - 05:00pm | Quiz | |
-| 05:00pm - 05:30pm | Closing Ceremony | SG |
