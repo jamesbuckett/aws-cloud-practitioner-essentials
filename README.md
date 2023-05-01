@@ -26,8 +26,8 @@
 
 ## Watch Party Schedule - AWS Skills Builder (Under Maintenance)
 
-| Section | Time | Modules | Location | 
-| --- | --- | --- | --- |
+| Section | Time | Modules |
+| --- | --- | --- |
 | [Start Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 09:00am - 10:00am | Opening Ceremony and Review Module 1, 2 & 3 |
 | [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 10:00am - 10:45am | Module 4 - Networking Module |
 | Mid-morning Break | 10:45am - 11:00am | Break for Refreshments |
