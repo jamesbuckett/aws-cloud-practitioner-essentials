@@ -44,7 +44,7 @@ Half Day
 
 | Section | Time | Modules |
 | --- | --- | --- |
-| [Start Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 03:00pm - 03:45pm | Opening Ceremony and Review |
-| [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 03:45pm - 04:30pm | Module 4 - Networking Module |
-| [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 04:30am - 05:45pm | Module 5 - Storage & Databases Module |
-| [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 05:45pm - 06:00pm | Module 6 - Security Module & Quiz |
+| [Start Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 03:00pm - 04:00pm | Opening Ceremony and Review |
+| [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 04:00pm - 05:00pm | Module 4 - Networking Module |
+| [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 05:00am - 06:00pm | Module 5 - Storage & Databases Module |
+| [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 06:00pm - 06:00pm | Module 6 - Security Module & Homeworld |
