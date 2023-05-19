@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 6: [Security](https://mm.tt/map/2453439153) (45 Minutes)
+## Module 6: [Security](https://www.mindmeister.com/map/2768000010) (45 Minutes)
 
 ### Learning objectives
 * Explain the benefits of the shared responsibility model.
