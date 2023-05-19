@@ -24,7 +24,7 @@
 * Participants should return on the hour, each hour to start the next module
     * Exception is the last section, Module 11 which starts at 04:15pm
 
-## Watch Party Schedule - AWS Skills Builder (Under Maintenance)
+## Watch Party Schedule
 
 | Section | Time | Modules |
 | --- | --- | --- |
@@ -40,3 +40,11 @@
 | [End Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 04:15pm - 05:00pm | Module 11, Quiz  & Closing Ceremony |
 
 
+Half Day
+
+| Section | Time | Modules |
+| --- | --- | --- |
+| [Start Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 03:00pm - 03:45pm | Opening Ceremony and Review |
+| [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 03:45pm - 04:30pm | Module 4 - Networking Module |
+| [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 04:30am - 05:45pm | Module 5 - Storage & Databases Module |
+| [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 05:45pm - 06:00pm | Module 6 - Security Module & Quiz |
