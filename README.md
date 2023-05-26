@@ -51,7 +51,7 @@
 
 | Section | Time | Modules |
 | --- | --- | --- |
-| [Start Here] 03:00pm - 03:30pm | Opening Ceremony and Review |
+| Start Here |  03:00pm - 03:30pm | Opening Ceremony and Review |
 | [Fifth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/05-fifth-time-block.md) | 03:30pm - 04:30pm | Module 7 & 8 - Monitoring & Pricing Module |
 | [Sixth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md) | 04:30pm - 05:30pm | Module 9 & 10 - Migration & Journey Module |
 | [End Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 05:30pm - 06:00pm | Closing Ceremony |
