@@ -22,17 +22,21 @@
     * Exception is Module 6 which has a Quiz before Lunch
 * Participants are on break until the start of the next section
 * Participants should return on the hour, each hour to start the next module
-    * Exception is the last section, Module 11 which starts at 04:15pm
+    * Exceptions are Module 6 & Module 11
 
 ## Watch Party Schedule
+
+Special Notes
+* Please watch videos at 1.25 or 1.5 speed
+* This is a watch party only watch videos and complete quizzes to stay on time
 
 | Section | Time | Modules |
 | --- | --- | --- |
 | [Start Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 09:00am - 10:00am | Opening Ceremony and Review Module 1, 2 & 3 |
 | [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 10:00am - 10:45am | Module 4 - Networking Module |
 | Mid-morning Break | 10:45am - 11:00am | Break for Refreshments |
-| [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 11:00am - 12:00pm | Module 5 - Storage & Databases Module |
-| [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 12:00pm - 01:00pm | Module 6 - Security Module & Quiz |
+| [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 11:00am - 12:15pm | Module 5 - Storage & Databases Module |
+| [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 12:15pm - 01:00pm | Module 6 - Security Module & Quiz |
 | Lunch | 01:00pm - 02:00pm | Lunch |
 | [Fifth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/05-fifth-time-block.md) | 02:00pm - 03:00pm | Module 7 & 8 - Monitoring & Pricing Module |
 | [Sixth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md) | 03:00pm - 04:00pm | Module 9 & 10 - Migration & Journey Module |
@@ -40,18 +44,3 @@
 | [End Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 04:15pm - 05:00pm | Module 11, Quiz  & Closing Ceremony |
 
 
-### Half Day Schedule
-
-| Section | Time | Modules |
-| --- | --- | --- |
-| [Start Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/01-first-time-block.md) | 03:00pm - 03:30pm | Opening Ceremony and Review |
-| [Second](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/02-second-time-block.md) | 03:30pm - 04:30pm | Module 4 - Networking Module |
-| [Third](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/03-third-time-block.md) | 04:30am - 05:30pm | Module 5 - Storage & Databases Module |
-| [Fourth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md) | 05:30pm - 06:00pm | Module 6 - Security Module & Homework |
-
-| Section | Time | Modules |
-| --- | --- | --- |
-| Start Here |  03:00pm - 03:30pm | Opening Ceremony and Review |
-| [Fifth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/05-fifth-time-block.md) | 03:30pm - 04:30pm | Module 7 & 8 - Monitoring & Pricing Module |
-| [Sixth](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/06-sixth-time-block.md) | 04:30pm - 05:30pm | Module 9 & 10 - Migration & Journey Module |
-| [End Here](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/07-seventh-time-block.md) | 05:30pm - 06:00pm | Closing Ceremony |
