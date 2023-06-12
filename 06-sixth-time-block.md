@@ -15,7 +15,6 @@
 
 </p>
 </details>
-<br>
 
 ### Learning objectives
 * Understand migration and innovation in the AWS Cloud.
@@ -45,7 +44,6 @@
 
 </p>
 </details>
-<br>
 
 ### Learning objectives
 * Summarize the six pillars of the Well-Architected Framework.  
