@@ -32,7 +32,7 @@
 * Module 5 summary
 * Module 5 quiz
 
-### Notes
+### Infographics 
 <details class="faq box"><summary>Databases and Analytics</summary>
 <p>
 

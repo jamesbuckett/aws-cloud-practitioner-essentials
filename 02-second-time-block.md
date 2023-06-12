@@ -34,7 +34,7 @@
 * Module 4 summary
 * Module 4 quiz 
 
-### Notes
+### Infographics 
 <details class="faq box"><summary>Network Fundamentals</summary>
 <p>
 

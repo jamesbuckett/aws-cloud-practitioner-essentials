@@ -33,7 +33,7 @@
 * Module 6 summary
 * Module 6 quiz
 
-### Notes
+### Infographics 
 <details class="faq box"><summary>Introduction to AWS Security</summary>
 <p>
 

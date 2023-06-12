@@ -24,7 +24,7 @@
 * Module 9 summary
 * Module 9 quiz
 
-### Notes
+### Infographics 
 <details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
 <p>
 
