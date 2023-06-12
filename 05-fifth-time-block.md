@@ -2,7 +2,7 @@
 
 ## Module 7: [Monitoring and Analytics](https://mm.tt/map/2398189342) (25 Minutes)
 
-### Words you will learn and what they Mean
+### Words you will learn and what they Mean:
 * Amazon CloudTrail - Monitoring
 * Amazon CloudWatch - Auditing 
 * Amazon Trusted Advisor - Recommendation Engine
@@ -24,10 +24,11 @@
 
 ## Module 8 [Pricing and Support](https://mm.tt/map/2398189549) (30 Minutes)
 
-### New AWS words you will learn and what they mean
-* Amazon Budgets - TRACKING & ALERTING on spend
-* Amazon Cost Explorer - ANALYZING spend
-* Amazon Pricing Calculator - Pricing Estimator
+### New AWS words you will learn and what they mean:
+* Amazon Pricing Calculator - ESTIMATING the bill
+* Amazon Cost and Usage Reports - GETTING the bill 
+* Amazon Cost Explorer - ANALYZING the bill
+* Amazon Budgets - TRACKING & ALERTING on the bill
 * Amazon Marketplace - Amazon App Store
 
 ### Learning objectives

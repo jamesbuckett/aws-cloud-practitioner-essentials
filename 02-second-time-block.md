@@ -2,7 +2,7 @@
 
 ## Module 4: [Networking](https://mm.tt/map/2398189135) (45 Minutes)
 
-### New AWS words you will learn and what they mean
+### New AWS words you will learn and what they mean:
 * Amazon Virtual Private Cloud (VPC) - Private Overlay Network
 * Amazon Direct Connect (DX) - Direct hardware connection between you and Amazon
 * Amazon Virtual Private Network (VPN) - Connection over the internet between you and Amazon

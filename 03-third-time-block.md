@@ -2,8 +2,7 @@
 
 ## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (45 Minutes)
 
-### New AWS words you will learn and what they mean
-<<<<<<< HEAD
+### New AWS words you will learn and what they mean:
 * Amazon Redshift - Analytics - An OLAP Data Warehouse
 * Amazon DynamoDB - NoSQL - Key Value Database 
 * Amazon Relational Database Service (RDS) - SQL - Relational Database
