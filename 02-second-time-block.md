@@ -3,10 +3,10 @@
 ## Module 4: [Networking](https://mm.tt/map/2398189135) (45 Minutes)
 
 ### New AWS words you will learn and what they mean
-* Amazon Virtual Private Cloud
-* Amazon  Private Gateway
+* Amazon Virtual Private Cloud (VPC)
+* Amazon  Private Gateway 
 * Amazon Virtual Private Network (VPN)
-* Amazon Direct Connect 
+* Amazon Direct Connect (DX)
 
 <details class="faq box"><summary>Network Fundamentals</summary>
 <p>
