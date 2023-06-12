@@ -4,9 +4,9 @@
 
 ### New AWS words you will learn and what they mean
 * Amazon Virtual Private Cloud (VPC)
-* Amazon  Private Gateway 
-* Amazon Virtual Private Network (VPN)
 * Amazon Direct Connect (DX)
+* Amazon Virtual Private Network (VPN)
+* Amazon  Private Gateway 
 
 <details class="faq box"><summary>Network Fundamentals</summary>
 <p>
