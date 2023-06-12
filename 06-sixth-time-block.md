@@ -11,7 +11,7 @@
 <details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
 <p>
 
-![image](https://www.awsgeek.com/AWS-Snow-Family/)
+![image](https://www.awsgeek.com/AWS-Snow-Family/AWS-Snow-Family.jpg)
 
 </p>
 </details>
