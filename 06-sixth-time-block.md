@@ -2,7 +2,7 @@
 
 ## Module 9: [Migration and Innovation](https://mm.tt/map/2398189584) (25 Minutes)
 
-### Flagship Products
+### Words you will learn and what they Mean
 * Amazon Cloud Adoption Framework (CAF)
 * Amazon Snowcone
 * Amazon Snowball
@@ -36,7 +36,7 @@
 
 ## Module 10: [The Cloud Journey](https://mm.tt/map/2398189641) (30 Minutes)
 
-### Flagship Products
+### Words you will learn and what they Mean
 * Amazon Well Architected Framework (WAF)
 
 ### Learning objectives

@@ -2,11 +2,19 @@
 
 ## Module 4: [Networking](https://mm.tt/map/2398189135) (45 Minutes)
 
-### Flagship Products
+### Words you will learn and what they Mean
 * Amazon Virtual Private Cloud
 * Amazon  Private Gateway
-* Amazon Virtual Private Network
+* Amazon Virtual Private Network (VPN)
 * Amazon Direct Connect 
+
+<details class="faq box"><summary>Network Fundamentals</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/18049790/228765638-1bf5910d-098f-4139-823a-43b00361e9c9.png)
+
+</p>
+</details>
 
 ### Learning objectives
 * Describe the basic concepts of networking.

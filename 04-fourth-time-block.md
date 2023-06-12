@@ -2,7 +2,7 @@
 
 ## Module 6: [Security](https://www.mindmeister.com/map/2768000010) (45 Minutes)
 
-### Flagship Products
+### Words you will learn and what they Mean
 * Amazon Identity and Access Management (IAM)
 * Amazon Organizations (Not a Product)
 * Amazon Artifact
