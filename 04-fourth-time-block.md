@@ -3,7 +3,7 @@
 ## Module 6: [Security](https://www.mindmeister.com/map/2768000010) (45 Minutes)
 
 ### New AWS words you will learn and what they mean
-* Amazon Identity and Access Management (IAM) - Identity Service
+* Amazon Identity and Access Management (IAM) - Identity Management Service
 * Amazon Organizations (Not a Product) - Managing Amazon Accounts
 * Amazon Artifact - Compliance - Compliance Reports and Agreements
 * Amazon Shield Standard - Network - Free Managed Distributed Denial of Service (DDoS) protection
