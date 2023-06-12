@@ -54,4 +54,4 @@
 ## Break (15 Minutes)
 <br>
 
-Be back at 12:00pm for  [Module 6: Security](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md)
+Be back at 12:15pm for  [Module 6: Security](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md)
