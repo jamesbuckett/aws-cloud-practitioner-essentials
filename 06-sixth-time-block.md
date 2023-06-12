@@ -8,6 +8,15 @@
 * Amazon Snowball
 * Amazon Snowmobile
 
+<details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/18049790/228770161-3cf685c0-f5f0-4294-8bcd-9c0d02e55838.png)
+
+</p>
+</details>
+<br>
+
 ### Learning objectives
 * Understand migration and innovation in the AWS Cloud.
 * Summarize the AWS Cloud Adoption Framework (AWS CAF). 
@@ -24,16 +33,6 @@
 * Module 9 summary
 * Module 9 quiz
 
-### Infographics 
-<details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
-<p>
-
-![image](https://user-images.githubusercontent.com/18049790/228770161-3cf685c0-f5f0-4294-8bcd-9c0d02e55838.png)
-
-</p>
-</details>
-<br>
-
 ## Module 10: [The Cloud Journey](https://mm.tt/map/2398189641) (30 Minutes)
 
 ### New AWS words you will learn and what they mean
@@ -45,7 +44,7 @@
 
 ### Now Complete the following sections:
 * Module 10 introduction
-* The AWS Well-Architected Framewo
+* The AWS Well-Architected Framework
 * Benefits of the AWS Cloud
 * Module 10 summary
 * Module 10 quiz

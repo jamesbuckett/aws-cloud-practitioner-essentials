@@ -3,11 +3,20 @@
 ## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (45 Minutes)
 
 ### New AWS words you will learn and what they mean
+* Amazon Relational Database Service (Amazon RDS)
+* Amazon DynamoDB
+* Amazon Redshift
 * Amazon Elastic Block Store (Amazon EBS)
 * Amazon Elastic File System (Amazon EFS)
 * Amazon Simple Storage Service (Amazon S3)
-* Amazon Relational Database Service (Amazon RDS)
-* Amazon DynamoDB
+
+<details class="faq box"><summary>Databases and Analytics</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/18049790/228767999-1a1ca40c-c232-4b27-ad40-4a25dd811e32.png)
+
+</p>
+</details>
 
 ### Learning objectives
 * Summarize the basic concept of storage and databases.
@@ -33,15 +42,6 @@
 * Module 5 quiz
 
 ### Infographics 
-<details class="faq box"><summary>Databases and Analytics</summary>
-<p>
-
-![image](https://user-images.githubusercontent.com/18049790/228767999-1a1ca40c-c232-4b27-ad40-4a25dd811e32.png)
-
-</p>
-</details>
-
-
 <details class="faq box"><summary>Choosing the Right Database</summary>
 <p>
 

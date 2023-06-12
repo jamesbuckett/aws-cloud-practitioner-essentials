@@ -35,15 +35,6 @@
 * Module 4 quiz 
 
 ### Infographics 
-<details class="faq box"><summary>Network Fundamentals</summary>
-<p>
-
-![image](https://user-images.githubusercontent.com/18049790/228765638-1bf5910d-098f-4139-823a-43b00361e9c9.png)
-
-</p>
-</details>
-
-
 <details class="faq box"><summary>VPC 101</summary>
 <p>
 
