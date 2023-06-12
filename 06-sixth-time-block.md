@@ -38,6 +38,15 @@
 ### New AWS words you will learn and what they mean
 * Amazon Well Architected Framework (WAF)
 
+<details class="faq box"><summary>Well Architected Framework</summary>
+<p>
+
+![image](https://www.awsgeek.com/AWS-Well-Architected-Framework/AWS-Well-Architected-Framework.jpg)
+
+</p>
+</details>
+<br>
+
 ### Learning objectives
 * Summarize the six pillars of the Well-Architected Framework.  
 * Explain the six benefits of cloud computing.
