@@ -2,6 +2,12 @@
 
 ## Module 4: [Networking](https://mm.tt/map/2398189135) (45 Minutes)
 
+### Flagship Products
+* Virtual Private Cloud
+* Virtual Private Gateway
+* Virtual Private Network
+* Direct Connect 
+
 ### Learning objectives
 * Describe the basic concepts of networking.
 * Describe the difference between public and private networking resources. 

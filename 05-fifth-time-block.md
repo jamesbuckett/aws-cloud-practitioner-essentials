@@ -2,6 +2,11 @@
 
 ## Module 7: [Monitoring and Analytics](https://mm.tt/map/2398189342) (25 Minutes)
 
+### Flagship Products
+* Amazon CloudTrail
+* Amazon CloudWatch
+* Amazon Trusted Advisor
+
 ### Learning objectives
 * Summarize approaches to monitoring your AWS environment.
 * Describe the benefits of [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/).
@@ -18,6 +23,12 @@
 <br>
 
 ## Module 8 [Pricing and Support](https://mm.tt/map/2398189549) (30 Minutes)
+
+### Flagship Products
+* Amazon Budgets
+* Amazon Cost Explorer
+* Amazon Pricing Calculator
+* Amazon Marketplace
 
 ### Learning objectives
 * Describe AWS pricing and support models.

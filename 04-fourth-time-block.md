@@ -2,6 +2,17 @@
 
 ## Module 6: [Security](https://www.mindmeister.com/map/2768000010) (45 Minutes)
 
+### Flagship Products
+* Amazon Identity and Access Management (IAM)
+* Amazon Organizations (Not a Product)
+* Amazon Artifact
+* Amazon Shield Standard 
+* Amazon Shield Advanced
+* Amazon Key Management Service (KMS)
+* Amazon Web Application Firewall (WAF)
+* Amazon Inspector
+* Amazon GuardDuty
+
 ### Learning objectives
 * Explain the benefits of the shared responsibility model.
 * Describe multi-factor authentication (MFA).

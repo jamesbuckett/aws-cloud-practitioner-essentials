@@ -2,6 +2,13 @@
 
 ## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (45 Minutes)
 
+### Flagship Products
+* Amazon Elastic Block Store (Amazon EBS)
+* Amazon Elastic File System (Amazon EFS)
+* Amazon Simple Storage Service (Amazon S3)
+* Amazon Relational Database Service (Amazon RDS)
+* Amazon DynamoDB
+
 ### Learning objectives
 * Summarize the basic concept of storage and databases.
 * Describe the benefits of Amazon Elastic Block Store (Amazon [EBS](https://aws.amazon.com/ebs/)).

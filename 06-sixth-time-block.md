@@ -2,6 +2,12 @@
 
 ## Module 9: [Migration and Innovation](https://mm.tt/map/2398189584) (25 Minutes)
 
+### Flagship Products
+* Amazon Cloud Adoption Framework (CAF)
+* Amazon Snowcone
+* Amazon Snowball
+* Amazon Snowmobile
+
 ### Learning objectives
 * Understand migration and innovation in the AWS Cloud.
 * Summarize the AWS Cloud Adoption Framework (AWS CAF). 
@@ -29,6 +35,9 @@
 <br>
 
 ## Module 10: [The Cloud Journey](https://mm.tt/map/2398189641) (30 Minutes)
+
+### Flagship Products
+* Amazon Well Architected Framework (WAF)
 
 ### Learning objectives
 * Summarize the six pillars of the Well-Architected Framework.  
