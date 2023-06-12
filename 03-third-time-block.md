@@ -3,10 +3,10 @@
 ## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (45 Minutes)
 
 ### New AWS words you will learn and what they mean
-* Amazon Relational Database Service (Amazon RDS) - SQL based relational Database
+* Amazon Relational Database Service (RDS) - SQL based Relational Database Server as a Service
 * Amazon DynamoDB - NoSQL based Key Value Database 
-* Amazon Redshift - An OLAP Data Warehouse
-* Amazon Elastic Block Store (Amazon EBS) - Block Stroage
+* Amazon Redshift - An OLAP petabyte-scale Data Warehouse
+* Amazon Elastic Block Store (Amazon EBS) - Block Storage
 * Amazon Elastic File System (Amazon EFS) - Network Storage
 * Amazon Simple Storage Service (Amazon S3) - Object Storage
 
