@@ -2,7 +2,7 @@
 
 ## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (45 Minutes)
 
-### Words you will learn and what they Mean
+### New AWS words you will learn and what they mean
 * Amazon Elastic Block Store (Amazon EBS)
 * Amazon Elastic File System (Amazon EFS)
 * Amazon Simple Storage Service (Amazon S3)

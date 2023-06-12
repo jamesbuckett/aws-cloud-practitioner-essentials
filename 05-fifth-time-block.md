@@ -24,7 +24,7 @@
 
 ## Module 8 [Pricing and Support](https://mm.tt/map/2398189549) (30 Minutes)
 
-### Words you will learn and what they Mean
+### New AWS words you will learn and what they mean
 * Amazon Budgets
 * Amazon Cost Explorer
 * Amazon Pricing Calculator

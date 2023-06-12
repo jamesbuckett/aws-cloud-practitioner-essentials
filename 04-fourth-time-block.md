@@ -2,7 +2,7 @@
 
 ## Module 6: [Security](https://www.mindmeister.com/map/2768000010) (45 Minutes)
 
-### Words you will learn and what they Mean
+### New AWS words you will learn and what they mean
 * Amazon Identity and Access Management (IAM)
 * Amazon Organizations (Not a Product)
 * Amazon Artifact

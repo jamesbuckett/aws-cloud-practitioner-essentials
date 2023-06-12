@@ -2,7 +2,7 @@
 
 ## Module 4: [Networking](https://mm.tt/map/2398189135) (45 Minutes)
 
-### Words you will learn and what they Mean
+### New AWS words you will learn and what they mean
 * Amazon Virtual Private Cloud
 * Amazon  Private Gateway
 * Amazon Virtual Private Network (VPN)
