@@ -3,10 +3,10 @@
 ## Module 9: [Migration and Innovation](https://mm.tt/map/2398189584) (25 Minutes)
 
 ### New AWS words you will learn and what they mean
-* Amazon Cloud Adoption Framework (CAF)
-* Amazon Snowcone
-* Amazon Snowball
-* Amazon Snowmobile
+* Amazon Cloud Adoption Framework (CAF) - Frameork for Cloud Adoption
+* Amazon Snowcone - Baby Data Mover
+* Amazon Snowball - Intermediate Data Mover
+* Amazon Snowmobile - Giant Data Mover
 
 <details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
 <p>

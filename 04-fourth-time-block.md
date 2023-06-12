@@ -3,15 +3,15 @@
 ## Module 6: [Security](https://www.mindmeister.com/map/2768000010) (45 Minutes)
 
 ### New AWS words you will learn and what they mean
-* Amazon Identity and Access Management (IAM)
-* Amazon Organizations (Not a Product)
-* Amazon Artifact
-* Amazon Shield Standard 
-* Amazon Shield Advanced
-* Amazon Key Management Service (KMS)
-* Amazon Web Application Firewall (WAF)
-* Amazon Inspector
-* Amazon GuardDuty
+* Amazon Identity and Access Management (IAM) - Identity Service
+* Amazon Organizations (Not a Product) - Managing Amazon Accounts
+* Amazon Artifact - Compliance - Compliance Reports and Agreements
+* Amazon Shield Standard - Network - Free Managed Distributed Denial of Service (DDoS) protection
+* Amazon Shield Advanced - Network - Non Free Managed Distributed Denial of Service (DDoS) protection
+* Amazon Key Management Service (KMS) - Encryption and Secrets - Cryptographic key management service
+* Amazon Web Application Firewall (WAF) - Network - Web Application Firewall to monitor HTTP and HTTPS requests
+* Amazon Inspector - Detection and Investigation - Vulnerability Scanner
+* Amazon GuardDuty - Detection and Investigation - Threat Detection Service
 
 ### Learning objectives
 * Explain the benefits of the shared responsibility model.
