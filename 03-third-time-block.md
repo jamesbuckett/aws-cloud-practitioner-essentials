@@ -5,6 +5,12 @@
 <details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
 <p>
 
+| Term | Alias | What it Does |
+| --- | --- | --- | 
+| Amazon Elastic Block Store | EBS | Block Storage |
+| Amazon Elastic File System | EFS | Network Storage | 
+| Amazon Simple Storage Service | S3 | Object Storage |
+
 | Term | Category | What it Does |
 | --- | --- | --- | 
 | Amazon Redshift | Analytics | An OLAP Data Warehouse |
@@ -19,12 +25,6 @@
 
 </p>
 </details>
-
-| Term | Alias | What it Does |
-| --- | --- | --- | 
-| Amazon Elastic Block Store | EBS | Block Storage |
-| Amazon Elastic File System | EFS | Network Storage | 
-| Amazon Simple Storage Service | S3 | Object Storage |
 
 </p>
 </details>
