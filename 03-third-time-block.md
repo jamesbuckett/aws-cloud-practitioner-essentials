@@ -15,16 +15,16 @@
 <details class="faq box"><summary>Databases and Analytics</summary>
 <p>
 
+![image](https://user-images.githubusercontent.com/18049790/228767999-1a1ca40c-c232-4b27-ad40-4a25dd811e32.png)
+
+</p>
+</details>
+
 | Term | Alias | What it Does |
 | --- | --- | --- | 
 | Amazon Elastic Block Store | EBS | Block Storage |
 | Amazon Elastic File System | EFS | Network Storage | 
 | Amazon Simple Storage Service | S3 | Object Storage |
-
-![image](https://user-images.githubusercontent.com/18049790/228767999-1a1ca40c-c232-4b27-ad40-4a25dd811e32.png)
-
-</p>
-</details>
 
 </p>
 </details>
