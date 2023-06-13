@@ -2,10 +2,17 @@
 
 ## Module 7: [Monitoring and Analytics](https://mm.tt/map/2398189342) (25 Minutes)
 
-### New AWS terms in this section and what they mean:
-* Amazon CloudTrail - Monitoring
-* Amazon CloudWatch - Auditing 
-* Amazon Trusted Advisor - Recommendation Engine
+<details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
+<p>
+
+| Term | Category | What it Does |
+| --- | --- | --- | 
+| Amazon CloudTrail | Observability | Monitoring Service |
+| Amazon CloudWatch | Auditing | Logging and Auditing API calls | 
+| Amazon Trusted Advisor | Best Practices | Recommendation Engine |
+
+</p>
+</details>
 
 ### Learning objectives
 * Summarize approaches to monitoring your AWS environment.
@@ -24,12 +31,19 @@
 
 ## Module 8 [Pricing and Support](https://mm.tt/map/2398189549) (30 Minutes)
 
-### New AWS terms in this section and what they mean:
-* Amazon Pricing Calculator - ESTIMATING the bill
-* Amazon Cost and Usage Reports - GETTING the bill 
-* Amazon Cost Explorer - ANALYZING the bill
-* Amazon Budgets - TRACKING & ALERTING on the bill
-* Amazon Marketplace - Amazon App Store
+<details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
+<p>
+
+| Term |  What it Does |
+| --- | ---  
+| Amazon Pricing Calculator | ESTIMATING the bill |
+| Amazon Cost and Usage Reports | GETTING the bill |
+| Amazon Cost Explorer | ANALYZING the bill |
+| Amazon Budgets | TRACKING & ALERTING on the bill |
+| Amazon Marketplace | Amazon App Store |
+
+</p>
+</details>
 
 ### Learning objectives
 * Describe AWS pricing and support models.

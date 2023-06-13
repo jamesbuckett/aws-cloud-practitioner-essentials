@@ -9,8 +9,8 @@
 | --- | --- | --- | 
 | Amazon Virtual Private Cloud | VPC | Private Overlay Network |
 | Amazon Direct Connect | DX | Direct hardware connection between you and Amazon |
+| Internet gateway | IG | Public traffic from the internet to access your VPC | 
 | Amazon Virtual Private Network | VPN | Connection over the internet between you and Amazon |
-| Amazon Private Gateway | VPG | ??? |  
 
 <details class="faq box"><summary>Network Fundamentals</summary>
 <p>
