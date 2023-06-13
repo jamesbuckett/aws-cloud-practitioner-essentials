@@ -2,7 +2,7 @@
 
 ## Module 9: [Migration and Innovation](https://mm.tt/map/2398189584) (25 Minutes)
 
-### New AWS words you will learn and what they mean
+### New AWS terms in this section and what they mean:
 * Amazon Cloud Adoption Framework (CAF) - Framework for Cloud Adoption
 * Amazon Snowcone - Baby Data Mover
 * Amazon Snowball - Intermediate Data Mover
@@ -34,7 +34,7 @@
 
 ## Module 10: [The Cloud Journey](https://mm.tt/map/2398189641) (30 Minutes)
 
-### New AWS words you will learn and what they mean
+### New AWS terms in this section and what they mean:
 * Amazon Well Architected Framework (WAF)
 
 <details class="faq box"><summary>Well Architected Framework</summary>
