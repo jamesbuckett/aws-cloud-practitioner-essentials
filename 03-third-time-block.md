@@ -13,10 +13,10 @@
 
 | Term | Category | What it Does |
 | --- | --- | --- | 
-| Amazon Redshift | Analytics | An OLAP Data Warehouse |
-| Amazon DynamoDB | NoSQL | Key Value Database |
-| Amazon Relational Database Service (RDS) | SQL | Relational Database | 
-| Amazon Aurora | SQL | A faster Relational Database |
+| Amazon Redshift | Analytics | Analyse Business Data |
+| Amazon DynamoDB | NoSQL | The backend for the Amazon.com |
+| Amazon Relational Database Service (RDS) | SQL | Store information in tables with relationships | 
+| Amazon Aurora | SQL | A faster RDS option |
 
 <details class="faq box"><summary>Databases and Analytics</summary>
 <p>
