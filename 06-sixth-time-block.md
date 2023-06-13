@@ -8,7 +8,7 @@
 | Term | Category | What it Does |
 | --- | --- | --- |  
 | Amazon Cloud Adoption Framework (CAF) | Framework | How to adopt Cloud | 
-| Amazon Snowcone | Migration | Move small data | 
+| Amazon Snowcone | Migration | Move some small data | 
 | Amazon Snowball | Migration | Move more data |
 | Amazon Snowmobile | Migration | Move the mostest data |
 
@@ -47,6 +47,12 @@
 | Term | Category | What it Does |
 | --- | --- | --- |  
 | Amazon Well Architected Framework (WAF) | Framework | Things you should consider when architecting your solution | 
+| C |  | Cost Optimization Pillar |  
+| R |  | Reliability Pillar |  
+| O |  | Operational Excellence Pillar |  
+| P |  | Performance Efficiency Pillar |  
+| S |  | Security Pillar |  
+| S |  | Sustainability Pillar   
 
 <details class="faq box"><summary>Well Architected Framework</summary>
 <p>
