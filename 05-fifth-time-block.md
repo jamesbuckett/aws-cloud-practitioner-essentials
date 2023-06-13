@@ -7,8 +7,8 @@
 
 | Term | Category | What it Does |
 | --- | --- | --- | 
-| Amazon CloudTrail | Observability | Monitoring Service |
-| Amazon CloudWatch | Auditing | Logging and Auditing API calls | 
+| Amazon CloudTrail | Observability | Is everything green |
+| Amazon CloudWatch | Auditing | Auditing all calls to the AWS API  | 
 | Amazon Trusted Advisor | Best Practices | Recommendation Engine |
 
 </p>
@@ -36,10 +36,10 @@
 
 | Term |  What it Does |
 | --- | ---  
+| Amazon Cost and Usage Reports | GETTING the bill - Bill Shock |
+| Amazon Cost Explorer | ANALYZING the bill - Why is Grab so high|
+| Amazon Budgets | TRACKING & ALERTING on the bill - Set a max limit on take out food |
 | Amazon Pricing Calculator | ESTIMATING the bill |
-| Amazon Cost and Usage Reports | GETTING the bill |
-| Amazon Cost Explorer | ANALYZING the bill |
-| Amazon Budgets | TRACKING & ALERTING on the bill |
 | Amazon Marketplace | Amazon App Store |
 
 </p>

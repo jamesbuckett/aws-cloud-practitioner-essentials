@@ -7,15 +7,15 @@
 
 | Term | Category | Alias | What it Does |
 | --- | --- | --- | --- | 
-| Amazon Identity and Access Management | Identity | IAM | Identity Management Service | 
-| Amazon Organizations | Identity | | Managing Amazon Accounts |
-| Amazon Artifact | Compliance | | Compliance Reports and Agreements |
-| Amazon Key Management Service | | Encryption and Secrets | Cryptographic key management service | 
-| Amazon Shield Standard |  Network | | Free DDos protection service | 
-| Amazon Shield Advanced | Network | | Not Free DDos protection service |
-| Amazon Web Application Firewall | Network |  WAF | Web Application Firewall to monitor HTTP and HTTPS requests | 
-| Amazon Inspector | Detection and Investigation | | Vulnerability Scanner |
-| Amazon GuardDuty | Detection and Investigation | | Threat Detection Service |
+| Amazon Identity and Access Management (IAM) | Identity | Who and do what where and for how long | 
+| Amazon Organizations | Identity | Centrally manage Amazon Accounts |
+| Amazon Artifact | Compliance | Compliance Reports and Agreements |
+| Amazon Key Management Service (KMS) |  Encryption and Secrets | Manages cryptographic keys | 
+| Amazon Shield Standard |  Network | Free DDos protection | 
+| Amazon Shield Advanced | Network | Not Free DDos protection |
+| Amazon Web Application Firewall (WAF) | Network |  Monitors HTTP and HTTPS requests | 
+| Amazon Inspector | Detection and Investigation | Scans for vulnerabilities |
+| Amazon GuardDuty | Detection and Investigation | Notifies you of threats |
 
 </p>
 </details>

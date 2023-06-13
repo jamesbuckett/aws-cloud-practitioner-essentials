@@ -2,16 +2,23 @@
 
 ## Module 9: [Migration and Innovation](https://mm.tt/map/2398189584) (25 Minutes)
 
-### New AWS terms in this section and what they mean:
-* Amazon Cloud Adoption Framework (CAF) - Framework for Cloud Adoption
-* Amazon Snowcone - Baby Data Mover
-* Amazon Snowball - Intermediate Data Mover
-* Amazon Snowmobile - Giant Data Mover
+<details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
+<p>
+
+| Term | Category | What it Does |
+| --- | --- | --- |  
+| Amazon Cloud Adoption Framework (CAF) | Framework | How to adopt Cloud | 
+| Amazon Snowcone | Migration | Move small data | 
+| Amazon Snowball | Migration | Move more data |
+| Amazon Snowmobile | Migration | Move the mostest data |
 
 <details class="faq box"><summary>Migration, Disaster Recovery and Business Continuity</summary>
 <p>
 
 ![image](https://www.awsgeek.com/AWS-Snow-Family/AWS-Snow-Family.jpg)
+
+</p>
+</details>
 
 </p>
 </details>
@@ -34,8 +41,12 @@
 
 ## Module 10: [The Cloud Journey](https://mm.tt/map/2398189641) (30 Minutes)
 
-### New AWS terms in this section and what they mean:
-* Amazon Well Architected Framework (WAF)
+<details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
+<p>
+
+| Term | Category | What it Does |
+| --- | --- | --- |  
+| Amazon Well Architected Framework (WAF) | Framework | Things you should consider when architecting your solution | 
 
 <details class="faq box"><summary>Well Architected Framework</summary>
 <p>
