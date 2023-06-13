@@ -6,7 +6,7 @@
 <p>
 
 | Term | Category | Alias | What it Does |
-| --- | --- | --- | 
+| --- | --- | --- | --- | 
 | Amazon Identity and Access Management | Identity | IAM | Identity Management Service | 
 | Amazon Organizations | Identity | | Managing Amazon Accounts |
 | Amazon Artifact | Compliance | | Compliance Reports and Agreements |
