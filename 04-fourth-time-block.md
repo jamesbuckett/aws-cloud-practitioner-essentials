@@ -10,9 +10,9 @@
 | Amazon Identity and Access Management | Identity | IAM | Identity Management Service | 
 | Amazon Organizations | Identity | | Managing Amazon Accounts |
 | Amazon Artifact | Compliance | | Compliance Reports and Agreements |
-| Amazon Shield Standard |  Network | Free DDos protection service | 
-| Amazon Shield Advanced | Network | Not Free DDos protection service |
-| Amazon Key Management Service | Encryption and Secrets | Cryptographic key management service | 
+| Amazon Shield Standard |  Network | | Free DDos protection service | 
+| Amazon Shield Advanced | Network | | Not Free DDos protection service |
+| Amazon Key Management Service | | Encryption and Secrets | Cryptographic key management service | 
 | Amazon Web Application Firewall | Network |  WAF | Web Application Firewall to monitor HTTP and HTTPS requests | 
 | Amazon Inspector | Detection and Investigation | | Vulnerability Scanner |
 | Amazon GuardDuty | Detection and Investigation | | Threat Detection Service |
