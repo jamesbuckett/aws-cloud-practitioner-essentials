@@ -10,7 +10,7 @@
 | Amazon Identity and Access Management (IAM) | Identity | Who and do what where and for how long | 
 | Amazon Organizations | Identity | Centrally manage Amazon Accounts |
 | Amazon Artifact | Compliance | Compliance Reports and Agreements |
-| Amazon Key Management Service (KMS) |  Encryption and Secrets | Manages cryptographic keys | 
+| Amazon Key Management Service (KMS) |  Encryption and Secrets | Encrypt Data | 
 | Amazon Shield Standard |  Network | Free DDos protection | 
 | Amazon Shield Advanced | Network | Not Free DDos protection |
 | Amazon Web Application Firewall (WAF) | Network |  Monitors HTTP and HTTPS requests | 
