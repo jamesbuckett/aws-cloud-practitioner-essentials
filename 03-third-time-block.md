@@ -2,7 +2,8 @@
 
 ## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (45 Minutes)
 
-### New AWS terms in this section and what they mean:
+<details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
+<p>
 
 | Term | Category | What it Does |
 | --- | --- | --- | 
@@ -18,6 +19,9 @@
 <p>
 
 ![image](https://user-images.githubusercontent.com/18049790/228767999-1a1ca40c-c232-4b27-ad40-4a25dd811e32.png)
+
+</p>
+</details>
 
 </p>
 </details>
