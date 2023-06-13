@@ -7,9 +7,9 @@
 
 | Term | Alias | What it Does |
 | --- | --- | --- | 
-| Amazon Elastic Block Store | EBS | Block Storage |
-| Amazon Elastic File System | EFS | Network Storage | 
-| Amazon Simple Storage Service | S3 | Object Storage |
+| Amazon Elastic Block Store | EBS | Hard Drive  |
+| Amazon Elastic File System | EFS | Network Hard Drive | 
+| Amazon Simple Storage Service | S3 | Dropbox |
 
 | Term | Category | What it Does |
 | --- | --- | --- | 
