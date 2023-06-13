@@ -5,7 +5,7 @@
 <details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
 <p>
 
-| Term | Also Known As | What it Does |
+| Term | Alias | What it Does |
 | --- | --- | --- | 
 | Amazon Virtual Private Cloud | VPC | Private Overlay Network |
 | Amazon Direct Connect | DX | Direct hardware connection between you and Amazon |

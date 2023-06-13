@@ -2,16 +2,23 @@
 
 ## Module 6: [Security](https://www.mindmeister.com/map/2768000010) (45 Minutes)
 
-### New AWS terms in this section and what they mean:
-* Amazon Identity and Access Management (IAM) - Identity Management Service
-* Amazon Organizations (Not a Product) - Managing Amazon Accounts
-* Amazon Artifact - Compliance - Compliance Reports and Agreements
-* Amazon Shield Standard - Network - Free Managed Distributed Denial of Service (DDoS) protection
-* Amazon Shield Advanced - Network - Non Free Managed Distributed Denial of Service (DDoS) protection
-* Amazon Key Management Service (KMS) - Encryption and Secrets - Cryptographic key management service
-* Amazon Web Application Firewall (WAF) - Network - Web Application Firewall to monitor HTTP and HTTPS requests
-* Amazon Inspector - Detection and Investigation - Vulnerability Scanner
-* Amazon GuardDuty - Detection and Investigation - Threat Detection Service
+<details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
+<p>
+
+| Term | Category | Alias | What it Does |
+| --- | --- | --- | 
+| Amazon Identity and Access Management | Identity | IAM | Identity Management Service | 
+| Amazon Organizations | Identity | | Managing Amazon Accounts |
+| Amazon Artifact | Compliance | | Compliance Reports and Agreements |
+| Amazon Shield Standard |  Network | Free DDos protection service | 
+| Amazon Shield Advanced | Network | Not Free DDos protection service |
+| Amazon Key Management Service | Encryption and Secrets | Cryptographic key management service | 
+| Amazon Web Application Firewall | Network |  WAF | Web Application Firewall to monitor HTTP and HTTPS requests | 
+| Amazon Inspector | Detection and Investigation | | Vulnerability Scanner |
+| Amazon GuardDuty | Detection and Investigation | | Threat Detection Service |
+
+</p>
+</details>
 
 ### Learning objectives
 * Explain the benefits of the shared responsibility model.
