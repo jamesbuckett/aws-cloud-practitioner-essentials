@@ -7,7 +7,7 @@
 
 | Term | Category | What it Does |
 | --- | --- | --- | 
-| Amazon Identity and Access Management (IAM) | Identity | Who and do what where and for how long | 
+| Amazon Identity and Access Management (IAM) | Identity | Who can do what? where? and for how long? | 
 | Amazon Organizations | Identity | Centrally manage Amazon Accounts |
 | Amazon Artifact | Compliance | Compliance Reports and Agreements |
 | Amazon Key Management Service (KMS) |  Encryption and Secrets | Encrypt Data | 
