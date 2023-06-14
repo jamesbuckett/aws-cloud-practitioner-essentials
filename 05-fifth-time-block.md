@@ -7,7 +7,7 @@
 
 | Term | Category | What it Does |
 | --- | --- | --- | 
-| Amazon CloudTrail | Observability | Is everything green |
+| Amazon CloudTrail | Observability | Is everything working |
 | Amazon CloudWatch | Auditing | Auditing all calls to the AWS API  | 
 | Amazon Trusted Advisor | Best Practices | Recommendation Engine |
 

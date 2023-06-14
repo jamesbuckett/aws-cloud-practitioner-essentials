@@ -5,13 +5,13 @@
 <details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
 <p>
 
-| Term | Alias | What it Does |
+| Storage Terms | Alias | What it Does |
 | --- | --- | --- | 
 | Amazon Elastic Block Store | EBS | Hard Drive  |
 | Amazon Elastic File System | EFS | Network Hard Drive | 
 | Amazon Simple Storage Service | S3 | Dropbox |
 
-| Term | Category | What it Does |
+| Database Terms | Category | What it Does |
 | --- | --- | --- | 
 | Amazon Redshift | Analytics | Analyse Business Data |
 | Amazon DynamoDB | NoSQL | The backend for the Amazon.com |
@@ -62,7 +62,7 @@
 </details>
 <br>
 
-## Break (15 Minutes)
+## Break (After completing Module)
 <br>
 
 Be back at 12:15pm for  [Module 6: Security](https://github.com/jamesbuckett/aws-cloud-practitioner-essentials/blob/main/04-fourth-time-block.md)
