@@ -36,11 +36,13 @@
 
 | Term |  What it Does |
 | --- | ---  
-| Amazon Cost and Usage Reports | GETTING the bill - Bill Shock |
-| Amazon Cost Explorer | ANALYZING the bill - Why is Grab so high|
-| Amazon Budgets | TRACKING & ALERTING on the bill - Set a max limit on take out food |
+| Amazon Cost and Usage Reports | GETTING the bill |
+| Amazon Cost Explorer | ANALYZING the bill |
+| Amazon Budgets | TRACKING & ALERTING on the bill |
 | Amazon Pricing Calculator | ESTIMATING the bill |
 | Amazon Marketplace | Amazon App Store |
+
+Cross over callout to the [FinOps Certified Practitioner](https://training.linuxfoundation.org/certification/certified-finops/) certification.
 
 </p>
 </details>
