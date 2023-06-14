@@ -23,7 +23,7 @@
 </p>
 </details>
 
-<details class="faq box"><summary>Sequence</summary>
+<details class="faq box"><summary>Execution</summary>
 <p>
 
 ## Overview
