@@ -3,19 +3,31 @@
 ## Summary
 * The objective of this repository is to provide an 8 hour [watch party](https://en.wiktionary.org/wiki/watch_party) schedule for the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) Essentials course on [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
-## Attribution
+<details class="faq box"><summary>Infographic Attribution</summary>
+<p>
+
 * All diagrams in this repository were kindly sourced from Jerry Hargrove's website - [Cloud Diagrams & Notes](https://www.awsgeek.com/)
 * No changes were made to the diagrams
 
-## Pre-Requisites 
+</p>
+</details>
+
+<details class="faq box"><summary>Pre-Requisites</summary>
+<p>
+
 * The AWS Cloud Practitioner Essentials Course is available on [AWS Skill Builder](https://explore.skillbuilder.aws/) 
 * Login to AWS Skill Builder and search for `E-N0539V`
     * `E-N0539V` is the ID for the English Language version of AWS Cloud Practitioner Essentials course
 * Please complete Module 1, 2 and 3 as self study
 
+</p>
+</details>
+
+<details class="faq box"><summary>Pre-Requisites</summary>
+<p>
+
 ## Overview
 * A Cloud Champion will start each section on the hour and give an oveview of the learning objectives
-* The Cloud Champion may open the header hyperlinks to provide further insight and introduction to concepts
 * Once the Cloud Champion is complete, participants should put on headphones and complete all the video's in that module
 * If a participant has any questions they may ask for support (Details to Be Provided in Session)
 * After completing the video's, each section has a break
@@ -23,6 +35,9 @@
 * Participants are on break until the start of the next section
 * Participants should return on the hour, each hour to start the next module
     * Exceptions are Module 6 & Module 11
+
+</p>
+</details>
 
 ## Watch Party Schedule
 
