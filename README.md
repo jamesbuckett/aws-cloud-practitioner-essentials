@@ -23,7 +23,7 @@
 </p>
 </details>
 
-<details class="faq box"><summary>Pre-Requisites</summary>
+<details class="faq box"><summary>Sequence</summary>
 <p>
 
 ## Overview
