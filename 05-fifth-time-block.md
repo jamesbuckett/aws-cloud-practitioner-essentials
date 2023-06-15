@@ -7,8 +7,8 @@
 
 | Term | Category | What it Does | Key Words | 
 | --- | --- | --- | --- | 
-| Amazon CloudWatch | Observability | Is everything working | | 
-| Amazon CloudTrail | Auditing | Auditing all calls to the AWS API | Logs, Governance, Compliance, Risk Auditing, Audit | 
+| Amazon CloudWatch | Observability | I am *watching* my applications | | 
+| Amazon CloudTrail | Auditing | I am following the audit *trail* of API calls | Logs, Governance, Compliance, Risk Auditing, Audit | 
 | Amazon Trusted Advisor | Best Practices | Recommendation Engine | |
 
 </p>

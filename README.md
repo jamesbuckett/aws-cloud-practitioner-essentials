@@ -8,6 +8,7 @@
 
 * All diagrams in this repository were kindly sourced from Jerry Hargrove's website - [Cloud Diagrams & Notes](https://www.awsgeek.com/)
 * No changes were made to the diagrams
+* A single diagram was used from this blog article: [A map of storage options in Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/map-storage-options-google-cloud)
 
 </p>
 </details>
