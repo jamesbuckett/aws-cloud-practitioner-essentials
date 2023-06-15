@@ -5,13 +5,13 @@
 <details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
 <p>
 
-| Term | Alias | What it Does |
-| --- | --- | --- | 
-| Amazon Virtual Private Cloud | VPC | Private Overlay Network |
-| Amazon Direct Connect | DX | Direct hardware connection between you and Amazon |
-| Amazon Virtual Private Network | VPN | Connection over the Internet between you and Amazon |
-| Internet gateway | IGW | Public traffic from the internet to access your VPC | 
-| Virtual Private Gateway | VPG | Private traffic from the internet to access your VPC via VPN | 
+| Term | Alias | What it Does | Key Words | 
+| --- | --- | --- | --- | 
+| Amazon Virtual Private Cloud | VPC | Private Overlay Network | Logically Isolated Sections |
+| Amazon Direct Connect | DX | Direct hardware connection between you and Amazon | Private, Dedicated Link, Secure |
+| Amazon Virtual Private Network | VPN | Connection over the Internet between you and Amazon | | 
+| Internet gateway | IGW | Public traffic from the internet to access your VPC | |
+| Virtual Private Gateway | VPG | Private traffic from the internet to access your VPC via VPN | |
 
 <details class="faq box"><summary>Network Fundamentals</summary>
 <p>
