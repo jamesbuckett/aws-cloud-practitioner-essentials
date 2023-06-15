@@ -10,7 +10,6 @@
 | Amazon Elastic Block Store | EBS | Hard Drive | Virtual Hard Disk, Volume from Snapshot |
 | Amazon Elastic File System | EFS | Network Hard Drive |  |
 | Amazon Simple Storage Service | S3 | Dropbox | Fully Managed Storage Objects, Global Access |
-<br>
 
 <details class="faq box"><summary>Block, File and Object Storage</summary>
 <p>
@@ -19,6 +18,7 @@
 
 </p>
 </details>
+<br>
 
 | Database Terms | Category | What it Does |  Key Words | 
 | --- | --- | --- | --- | 
@@ -35,7 +35,7 @@
 </p>
 </details>
 
-<details class="faq box"><summary>Databases and Analytics</summary>
+<details class="faq box"><summary>Amazon Relational Database (RDS)</summary>
 <p>
 
 ![image](https://www.awsgeek.com/Amazon-RDS/Amazon-RDS.jpg)
