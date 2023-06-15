@@ -5,18 +5,18 @@
 <details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
 <p>
 
-| Storage Terms | Alias | What it Does |
-| --- | --- | --- | 
-| Amazon Elastic Block Store | EBS | Hard Drive  |
-| Amazon Elastic File System | EFS | Network Hard Drive | 
-| Amazon Simple Storage Service | S3 | Dropbox |
+| Storage Terms | Alias | What it Does | Key Words | 
+| --- | --- | --- | --- | 
+| Amazon Elastic Block Store | EBS | Hard Drive | Virtual Hard Disk, Volume from Snapshot |
+| Amazon Elastic File System | EFS | Network Hard Drive |  |
+| Amazon Simple Storage Service | S3 | Dropbox | Fully Managed Storage Objects, Global Access |
 
-| Database Terms | Category | What it Does |
-| --- | --- | --- | 
-| Amazon Redshift | Analytics | Analyse Business Data |
-| Amazon DynamoDB | NoSQL | The backend for the Amazon.com |
-| Amazon Relational Database Service (RDS) | SQL | Store information in tables with relationships | 
-| Amazon Aurora | SQL | A faster RDS option |
+| Database Terms | Category | What it Does |  Key Words | 
+| --- | --- | --- | --- | 
+| Amazon Redshift | Analytics | Analyse Business Data | |
+| Amazon DynamoDB | NoSQL | The backend for the Amazon.com | NoSQL, Fully Managed, Global, Global Tables |
+| Amazon Relational Database Service (RDS) | SQL | Store information in tables with relationships | SQL, Low Cost, Managed |
+| Amazon Aurora | SQL | A faster RDS option | Managed Database Service compatible with MySQL |
 
 <details class="faq box"><summary>Databases and Analytics</summary>
 <p>
