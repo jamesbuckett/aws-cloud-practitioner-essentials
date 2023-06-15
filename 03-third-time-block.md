@@ -12,6 +12,14 @@
 | Amazon Simple Storage Service | S3 | Dropbox | Fully Managed Storage Objects, Global Access |
 <br>
 
+<details class="faq box"><summary>Block, File and Object Storage</summary>
+<p>
+
+![image](https://storage.googleapis.com/gweb-cloudblog-publish/images/Storage-to-Use_v04-23-21.max-1600x1600.jpeg)
+
+</p>
+</details>
+
 | Database Terms | Category | What it Does |  Key Words | 
 | --- | --- | --- | --- | 
 | Amazon Redshift | Analytics | Analyse Business Data | |
