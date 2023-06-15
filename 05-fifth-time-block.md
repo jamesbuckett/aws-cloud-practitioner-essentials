@@ -5,11 +5,11 @@
 <details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
 <p>
 
-| Term | Category | What it Does |
-| --- | --- | --- | 
-| Amazon CloudWatch | Observability | Is everything working |
-| Amazon CloudTrail | Auditing | Auditing all calls to the AWS API  | 
-| Amazon Trusted Advisor | Best Practices | Recommendation Engine |
+| Term | Category | What it Does | Key Words | 
+| --- | --- | --- | --- | 
+| Amazon CloudWatch | Observability | Is everything working | | 
+| Amazon CloudTrail | Auditing | Auditing all calls to the AWS API | Logs, Governance, Compliance, Risk Auditing, Audit | 
+| Amazon Trusted Advisor | Best Practices | Recommendation Engine | |
 
 </p>
 </details>
