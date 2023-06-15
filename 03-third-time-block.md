@@ -10,6 +10,7 @@
 | Amazon Elastic Block Store | EBS | Hard Drive | Virtual Hard Disk, Volume from Snapshot |
 | Amazon Elastic File System | EFS | Network Hard Drive |  |
 | Amazon Simple Storage Service | S3 | Dropbox | Fully Managed Storage Objects, Global Access |
+<br>
 
 | Database Terms | Category | What it Does |  Key Words | 
 | --- | --- | --- | --- | 
