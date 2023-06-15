@@ -40,8 +40,6 @@
 </details>
 
 ## Watch Party Schedule
-
-### Special Notes
 * Please watch videos at *1.25 or *1.5 speed
 * This is a watch party only watch videos and complete quizzes to stay on time
 
