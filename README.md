@@ -13,6 +13,16 @@
 </p>
 </details>
 
+<details class="faq box"><summary>Upcoming Changes</summary>
+<p>
+
+[Coming soon: updates to AWS Certified Cloud Practitioner exam](https://aws.amazon.com/blogs/training-and-certification/coming-soon-updates-to-aws-certified-cloud-practitioner-exam/)
+
+</p>
+</details>
+
+
+
 <details class="faq box"><summary>Pre-Requisites</summary>
 <p>
 
