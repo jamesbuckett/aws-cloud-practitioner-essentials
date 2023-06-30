@@ -42,7 +42,7 @@
 | Amazon Pricing Calculator | ESTIMATING the bill |
 | Amazon Marketplace | Amazon App Store |
 
-Cross over callout to the [FinOps Certified Practitioner](https://training.linuxfoundation.org/certification/certified-finops/) certification.
+Crossover callout to the [FinOps Certified Practitioner](https://training.linuxfoundation.org/certification/certified-finops/) certification.
 
 </p>
 </details>
