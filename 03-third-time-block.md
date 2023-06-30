@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Essentials
 
-## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (45 Minutes)
+## Module 5: [Storage](https://mm.tt/map/2452111546) and [Database](https://mm.tt/map/2456121426) (75 Minutes)
 
 <details class="faq box"><summary>New AWS terms in this section and what they mean:</summary>
 <p>
