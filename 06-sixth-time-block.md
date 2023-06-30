@@ -54,6 +54,9 @@
 | S |  | Security Pillar |  
 | S |  | Sustainability Pillar   
 
+</p>
+</details>
+
 <details class="faq box"><summary>Well Architected Framework</summary>
 <p>
 
