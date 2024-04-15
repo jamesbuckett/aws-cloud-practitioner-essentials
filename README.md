@@ -31,6 +31,12 @@
     * `E-N0539V` is the ID for the English Language version of AWS Cloud Practitioner Essentials course
 * Please complete Module 1, 2 and 3 as self study
 
+* Chinese Language 
+    * AWS Cloud Practitioner Essentials (Simplified Chinese) (Na) (中文讲师定制版)
+        * ID: E-VXW6K0
+    * AWS Cloud Practitioner Essentials (Traditional Chinese)
+        * ID: E-04ZGD1
+
 </p>
 </details>
 
